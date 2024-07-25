@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Fully Synthetic Engine Oils",
+        "category": "Lubricants",
+        "grades": [
+            "5W30,",
+            "5W40 (SL/CF, SN/CF)"
+        ],
+        "img": [
+            "/images/lubricants/Full.jpg"
+        ],
+        "description": "Engineered for high-performance and luxury vehicles. Delivers exceptional protection and efficiency. Meets and exceeds latest industry standards.",
+        "benefits": [
+            "Superior Wear Protection: Reduces friction and wear, extending engine life.",
+            "Thermal Stability: Maintains viscosity and performance in extreme temperatures.",
+            "Fuel Economy: Enhances fuel efficiency by reducing engine drag.",
+            "Long Oil Life: Extended drain intervals save time and money.",
+            "Clean Engine: Keeps engines cleaner by preventing sludge and deposit formation."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Semi-Synthetic Engine Oils",
+        "category": "Lubricants",
+        "grades": [
+            "5W40,",
+            "5W30,",
+            "10W30,",
+            "10W40 (SL/CF, SN/CF)"
+        ],
+        "img": [
+            "/images/lubricants/Semi.jpg"
+        ],
+        "description": "Perfect blend of synthetic and mineral base oils. Offers enhanced protection and performance at an affordable price. Ideal for modern cars and light trucks.",
+        "benefits": [
+            "Engine Cleanliness: Improved detergent properties keep engines clean.",
+            "Oxidation Stability: Resists breakdown under high temperatures.",
+            "Temperature Performance: Reliable performance in both high and low temperatures.",
+            "Wear Protection: Reduces engine wear and extends component life."
+        ]
+    },
+    
+    
+    {
+        "id": 5,
+        "name": "Automatic Transmission Fluids",
+        "category": "Lubricants",
+        "grades": [
+            "DX III,",
+            "DX IVL"
+        ],
+        "img": [
+            "/images/lubricants/ATF.jpg"
+        ],
+        "description": "Ensures smooth and reliable operation of automatic transmissions. Enhances performance and extends transmission life.",
+        "benefits": [
+            "High-Temperature Stability: Maintains performance in high-temperature environments.",
+            "Smooth Shifting: Ensures smooth and consistent gear changes.",
+            "Extended Transmission Life: Protects against wear and extends the life of transmission components.",
+            "Anti-Wear Properties: Prevents wear and tear of transmission parts."
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Lubricants",
+        "name": "Gear Oils",
+        "grades": [
+            "80W90 (GL-5)"
+        ],
+        "img": [
+            "/images/lubricants/Gear-oil.jpg"
+        ],
+        "description": "Provides superior protection for gear systems. Ensures smooth and efficient operation under high load and stress.",
+        "benefits": [
+            "Load-Carrying Capacity: Excellent performance in high-load situations.",
+            "Wear and Corrosion Protection: Protects gear systems from wear and corrosion.",
+            "Thermal Stability: Maintains viscosity and performance across a wide temperature range."
+        ]
+    }
+]
+

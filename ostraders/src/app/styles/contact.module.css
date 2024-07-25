@@ -1,0 +1,133 @@
+ 
+.box{
+    background-color: #111;
+    border-radius: 20px;
+    height: 220px;
+    width: 100%;
+    padding: 60px 30px;
+    line-height: 1;
+    text-align: left;
+    color: var(--text-color);
+    margin-bottom: 20px;
+    z-index: 999;
+    transition: background .4s ease ;
+    position: relative;
+    overflow: hidden;
+}
+.box.active{
+    background: var(--accent-color);
+}
+
+.box:hover{
+    transition: transform .4s ease;
+    transform: translateY(-30px) !important;
+}
+
+.box span{
+    font-size: 35px;
+    color: var(--accent-color);
+    line-height: 1;
+    margin-bottom: 15px;
+    display: inline-block;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.box.active span{
+    color: #1b1b1b;
+}
+.box h5{
+    font-size: 21px;
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: 700;
+
+}
+.box.active h5 {
+    color: #1b1b1b;
+    font-weight: 700;
+}
+.box p {
+    color: #999;
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+.box.active p {
+    color: #1b1b1b;
+    font-weight: 300;
+}
+
+.box:hover{
+    background-color: var(--accent-color);
+    color: #222;
+}
+.box:hover span{
+    color: #222;
+}
+.box:hover h5{
+    color: #222;
+}
+.box:hover p{
+    color: #222;
+}
+
+.box .big_icon{
+    font-size: 8rem;
+    position: absolute;
+    bottom: -20%;
+    right: -20%;
+    z-index: -1;
+    color: #1a1a1a;
+}
+
+.contact_form{
+    margin: 50px 0px;
+}
+
+.contact_form h5{
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.contact_btn{
+    padding: 20px 20px;
+    border-radius: 50px;
+    background-color: var(--accent-color);
+    width: 30%;
+    justify-content: center;
+    text-align: center;
+}
+.contact_btn p{
+    margin-bottom: 0px;
+}
+.contact_btn:hover{
+    background-color: var(--text-color);
+}
+
+.contact_map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact_map iframe{
+    border-radius: 20px;
+    height: 350px;
+    /* width: 100%; */
+}
+
+
+@media (max-width: 560px) {
+    .contact_btn{
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+    .contact_map iframe{
+        margin: 0px 0px;
+        width: 100%;
+    }
+}

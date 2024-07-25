@@ -1,0 +1,27 @@
+{
+  "name": "ostraders",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.1",
+    "gsap": "^3.12.5",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-lottie": "^1.2.4",
+    "react-owl-carousel": "^2.3.3",
+    "react-photoswipe-gallery": "^3.0.2",
+    "smooth-scrollbar": "^8.8.4",
+    "swiper": "^11.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}

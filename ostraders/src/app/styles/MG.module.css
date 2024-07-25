@@ -1,0 +1,117 @@
+.page{
+    background: url('../../../public/images/MG.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.page:before{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+    background: #000;
+    opacity: .5;
+    z-index: 1;
+}
+
+.page .page_content{
+    height: 300px;
+    width: 48%;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: end;
+    text-align: right;
+}
+
+.page_content span{
+    color: var(--accent-color);
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight: 500;
+    letter-spacing: 4px;
+}
+
+.page_content h1{
+    font-size: 4.3vw;
+    margin: 15px 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+@media (max-width: 999px) {
+
+    .page{
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .page .page_content{
+        width: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .page .page_content h1{
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 499px) {
+    .page .page_content h1{
+        font-size: 2.7rem;
+    }
+}
+
+.item{
+    background-color: var(--bg2-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-radius: 30px;
+    flex-direction: column;
+    transition: background .4s ease, transform .4s ease;
+}
+
+.item .item_icon{
+    width: 50%;
+    height: 100%;
+    fill: var(--accent-color) ;
+    transition: fill .4s ease;
+}
+
+.item:hover{
+    background-color: var(--accent-color);
+    transform: translateY(-30px);
+}
+
+.item:hover .item_icon{
+    fill: var(--text-color);
+}
+
+.item h5{
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: .9rem;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+
+.item img{
+    fill: #fff;
+}

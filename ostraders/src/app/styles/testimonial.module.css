@@ -1,0 +1,281 @@
+.testmonial {}
+
+.card {
+    width: 100%;
+    overflow: hidden !important;
+    /* margin-right: 50px; */
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 30px;
+    position: relative;
+    margin-bottom: 20px;
+    height: 26vw;
+    background-color: var(--bg2-color);
+}
+
+.card .content {
+    padding: 3vw 3.5vw 8vw 3.5vw;
+}
+
+.card .content i {
+    font-size: 4vw;
+    margin-bottom: 8px;
+    color: var(--accent-color);
+}
+
+.card h5 {
+    font-size: 1.3vw;
+    font-weight: normal;
+    letter-spacing: .5px;
+}
+
+.card h5 span {
+    font-weight: 700;
+}
+
+.card .content h4 {
+    font-size: 1.7vw;
+    font-weight: bold;
+    letter-spacing: .5px;
+}
+
+.card .content p {
+    font-size: 1vw;
+    font-weight: 300;
+    letter-spacing: .5px;
+}
+
+.card .bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    z-index: 999;
+}
+
+.card .bottom .client {
+    margin-left: 30px;
+    font-size: 1.3vw;
+    font-weight: 300;
+}
+
+.card .bottom .client h4 {
+    font-size: 1em;
+    font-weight: 400;
+    margin-bottom: 0;
+    letter-spacing: .5px;
+}
+
+.card .bottom .client span {
+    font-size: .7em;
+    letter-spacing: .5px;
+    color: #888;
+}
+
+.card .curvbtn {
+    position: relative;
+    /* position: absolute;
+    bottom: 0;
+    left: 0; */
+    width: 7vw;
+    height: 7vw;
+    line-height: 55px;
+    text-align: center;
+    border-radius: 0 40px 0 0;
+    background-color: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card .curvbtn .img {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.card:hover .curvbtn i {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+.card .curvbtn .br_left_top {
+    position: absolute;
+    top: -24px;
+    left: -1px;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    line-height: 1;
+}
+
+.card .curvbtn .br_left_top svg {
+    width: 24px;
+    height: 24px;
+}
+
+.card .curvbtn .br_right_bottom {
+    position: absolute;
+    bottom: -1px;
+    right: -24px;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    line-height: 1;
+}
+
+
+.card .curvbtn .br_right_bottom svg {
+    width: 24px;
+    height: 24px;
+}
+
+/* rating code is herer  */
+
+.card .rating {
+    position: absolute;
+    right: -6px;
+    top: 0;
+    width: 10vw;
+    height: 3.3vw;
+    line-height: 55px;
+    text-align: center;
+    border-radius: 0 40px 0 0;
+    background-color: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card .rating i {
+    margin: 0 .1vw;
+    font-size: 1.1vw;
+    color: var(--accent-color);
+}
+
+
+
+
+.card .rating .br_left_bottom {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    line-height: 1;
+}
+
+.card .rating .br_left_bottom svg {
+    width: 24px;
+    height: 24px;
+}
+
+.card .rating .br_left_bottom svg path {
+    fill: var(--bg2-color) !important;
+}
+
+.card .rating .br_right_bottom {
+    position: absolute;
+    bottom: -24px;
+    right: 6px;
+    -webkit-transform: rotate(-270deg);
+    -ms-transform: rotate(-270deg);
+    transform: rotate(-270deg);
+    line-height: 1;
+}
+
+
+.card .rating .br_right_bottom svg {
+    width: 24px;
+    height: 24px;
+}
+
+.card .curvbtn .img {
+    background-color: var(--bg2-color);
+    transition: all .5s ease;
+}
+
+.card:hover .curvbtn .img {
+    background-color: var(--accent-color);
+}
+
+@media (max-width: 1140px) {
+    .card {
+        height: 350px;
+    }
+
+    .card .content {
+        padding: 40px 50px 110px 50px;
+    }
+
+    .card .curvbtn {
+        width: 85px;
+        height: 85px;
+    }
+
+    .card .curvbtn .img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .card .rating i {
+        margin: 0 1px;
+        font-size: 1rem;
+    }
+
+    .card .content i {
+        font-size: 3.3rem;
+    }
+
+    .card .content p {
+        font-size: .85rem;
+    }
+
+    .card .rating {
+        width: 130px;
+        height: 45px;
+    }
+
+    .card .bottom .client {
+        font-size: 1.2rem;
+    }
+
+    .card .content h4 {
+        font-size: 1.8rem;
+    }
+
+    .card h5 {
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .card{
+        height: 100%;
+    }
+    .card .content p {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 499px) {
+    .card .content{
+        padding: 40px 30px 100px 30px;
+    }
+    .card .content p{
+        font-size: .85rem;
+    }
+}

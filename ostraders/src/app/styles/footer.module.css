@@ -1,0 +1,223 @@
+.footer{
+    height: 100%;
+    width: 100%;
+    padding: 0vw 8vw;
+    padding-top: 3vw !important;
+}
+
+.footer .contacts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 20px 40px;
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+
+.footer .contacts .contact_item{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: auto;
+}
+
+
+.footer .contacts .border{
+    height: 60px;
+    width: 1px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.footer .contacts .contact_item i{
+    font-size: 1.4rem;
+    padding: 20px;
+    width: 65px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: .4s ease-in;
+    color: var(--text-color);
+    background-color: var(--accent-color);
+    margin-right: 15px;
+}
+
+.footer .contacts .contact_item span{
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+.footer .contacts .contact_item a{
+    color: var(--text-color);
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+
+@media (max-width: 992px) {
+    .footer .contacts{
+        justify-content: space-around;
+    }
+    .footer .contacts .contact_item{
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 599px) {
+    .footer .contacts{
+        justify-content: start;
+        padding: 20px 20px 10px 20px;
+    }
+    .footer .border{
+        display: none;
+    }
+}
+
+
+.footer_section img{
+    width: 30%;
+    margin-bottom: 15px;
+}
+
+.footer_section p{
+    font-size: .9rem;
+    line-height: 180%;
+    font-weight: 300;
+}
+
+.footer_section h3{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--accent-color);
+    font-weight: bold;
+}
+
+.icon{
+    font-size: 1rem;
+    padding: 20px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: .4s ease-in;
+    color: var(--text-color);
+    border: 2px solid var(--accent-color);
+    background-color: transparent;
+    margin-right: 10px;
+}
+
+.icon:hover {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+.footer_section h4{
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.footer_section ul{
+    margin-left: 20px;
+}
+
+.footer_section li{
+    list-style:disc;
+    color: var(--accent-color);
+    margin-bottom: 8px;
+}
+
+.footer_section li a{
+    font-weight: 300;
+    font-size: .95rem;
+}
+
+.footer_section li a:hover{
+    opacity: 1;
+}
+
+.footer_section li a::after{
+    width: 6px;
+    height: 6px;
+    content: "";
+    background: var(--accent-color);
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 12px;
+}
+
+.newsLetter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+    border-radius: 30px;
+    border: 2px solid var(--accent-color);
+}
+
+.newsLetter input{
+    padding: 13px 15px;
+    width: 100%;
+    border: none;
+    font-weight: 300;
+    font-size: 1rem;
+    outline: none;
+    background: transparent;
+    color: var(--text-color);
+}
+
+.newsLetter input::placeholder{
+    font-size: .9rem;
+    color: var(--text-color);
+    opacity: .8;
+}
+
+.newsLetter .icon{
+    margin: 0;
+    background-color: var(--accent-color);
+    border: none;
+    transition: all .4s ease;
+    transform: rotate(45deg);
+}
+.newsLetter .icon:hover{
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    transform: rotate(90deg);
+}
+
+.foot{
+    margin-top: 60px;
+    padding: 40px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.foot p{
+    margin: 0;
+    font-size: .95rem;
+    font-weight: 400;
+    word-spacing:2px;
+    color: #999;
+}
+
+.foot p a{
+    font-weight: 300;
+    letter-spacing: .5px;
+    position: relative;
+    color: var(--text-color);
+}
+
+.foot p a::after{
+    content: "";
+    position: absolute;
+    bottom: -4px;
+    width: 100%;
+    height: 1px;
+    left: 0;
+    right: 0;
+    background-color: var(--accent-color);
+}

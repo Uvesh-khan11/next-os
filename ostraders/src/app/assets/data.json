@@ -1,0 +1,2126 @@
+[
+    {
+        "id": 1,
+        "model": "Toyota Hilux",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "The Toyota Hilux is your partner for work, adventure, or everyday driving. Choose from fuel-efficient diesel engines and conquer any terrain with its 4WD system. Whether you opt for the manual or automatic transmission, the Hilux offers versatility and capability in a stylish package. Tackle challenging jobs, explore hidden trails, or simply commute in comfort – the Hilux is ready for anything.",
+        "img": [
+            "/images/commercial/Hilux 2.jpeg",
+            "/images/commercial/Hilux 3.jpeg",
+            "/images/commercial/Hilux 4.jpeg",
+            "/images/commercial/Hilux 5.jpeg"
+        ],
+        "engine": [
+            "Diesel"
+        ],
+        "transmission": [
+            "Manual",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "1,100 + kg",
+        "fuel_tank": "280L",
+        "seats": 5,
+        "features": [
+            "7 airbags for safety",
+            "Hill start assist control for easy inclines"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": "5330 mm",
+            "width": "1855 mm",
+            "height": "1815 mm"
+        }
+    },
+    {
+        "id": 2,
+        "model": "Land Cruiser Pickup Single Cabin",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "Dominate off-road adventures with the Land Cruiser Pickup Single Cabin. This rugged truck boasts a powerful diesel or petrol engine, conquering any terrain with its 4WD system. Tackle tough jobs with its high payload capacity, making it a reliable workhorse. While it offers a single cabin for the driver, its focus lies on pure capability.",
+        "img": [
+            "/images/commercial/land_cruiser single_car 2.jpg",
+            "/images/commercial/land_cruiser single_car 3.jpg",
+            "/images/commercial/land_cruiser single_car 4.jpg",
+            "/images/commercial/land_cruiser single_car 7.jpg"
+        ],
+        "engine": [
+            "Petrol",
+            "Diesel"
+        ],
+        "transmission": [
+            "Manual"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "1100+ kg",
+        "fuel_tank": "180L",
+        "seats": 3,
+        "features": [
+            "Solid axle suspension (off-road)",
+            "Long driving range (180L fuel tank)"
+        ],
+        "dimensions": {
+            "length": "5900 mm",
+            "width": "1870 mm",
+            "height": "1930 mm"
+        },
+        "disclaimers": [
+            "Basic",
+            "Expensive maintenance",
+            "Low fuel economy"
+        ]
+    },
+    {
+        "id": 3,
+        "model": "Land Cruiser Pickup Double Cabin",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": " Bring your crew along for the off-road ride! The Land Cruiser Pickup Double Cabin offers seating for 5 and doesn't compromise on power. A strong engine and 4WD system take you anywhere, while the high payload lets you bring all the gear. Ideal for exploring or hauling heavy loads, this double cabin combines functionality with adventure.",
+        "img": [
+            "/images/commercial/Land_cruiser double_cabin 2.jpg",
+            "/images/commercial/Land_cruiser double_cabin 3.jpg",
+            "/images/commercial/Land_cruiser double_cabin 4.jpg",
+            "/images/commercial/Land_cruiser double_cabin 6.jpg",
+            "/images/commercial/Land_cruiser double_cabin 10.jpg"
+        ],
+        "engine": [
+            "Petrol",
+            "Diesel"
+        ],
+        "transmission": [
+            "Manual"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "1,000 kg",
+        "fuel_tank": "130L",
+        "seats": 5,
+        "features": [
+            "Solid axle suspension (off-road)",
+            "Long driving range (180L fuel tank)"
+        ],
+        "dimensions": {
+            "length": "5690 mm",
+            "width": "1870 mm",
+            "height": "1935 mm"
+        },
+        "disclaimers": [
+            "Basic",
+            "Expensive maintenance",
+            "Low fuel economy"
+        ]
+    },
+    {
+        "id": 4,
+        "model": "Toyota Coaster Bus",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "Ensure a comfortable and safe journey for your passengers with the Toyota Coaster Bus. This spacious and reliable minibus features air conditioning, large windows for sightseeing, and multiple exits for easy access. Ideal for transporting groups, the Coaster prioritizes passenger comfort with its well-designed interior. Let your passengers relax and enjoy the ride while you navigate the roads with confidence.",
+        "img": [
+            "/images/commercial/coaster.png",
+            "/images/commercial/coaster1.webp",
+            "/images/commercial/coaster4.jpg",
+            "/images/commercial/coaster3.jpg",
+            "/images/commercial/coaster5.jpg",
+            "/images/commercial/coaster2.jpg"
+        ],
+        "engine": [
+            "Petrol",
+            "Diesel"
+        ],
+        "transmission": [
+            "Manual"
+        ],
+        "drivetrain": [
+            "RWD"
+        ],
+        "payload": "1,100 + kg",
+        "fuel_tank": "200L",
+        "seats": "20-30",
+        "features": [
+            "Air conditioning and heating for passenger comfort",
+            "Large windows for good visibility",
+            "Multiple emergency exits for safety"
+        ],
+        "dimensions": {
+            "length": "Varies by model (typically 7-8 meters)",
+            "width": "Approx 2.0 meters",
+            "height": "Approx 3.0 meters"
+        },
+        "disclaimers": [
+            "Professional driver's license required for operation",
+            "Fuel efficiency may vary based on passenger load and driving conditions"
+        ]
+    },
+    {
+        "id": 6,
+        "model": "GAC Trumpchi M8",
+        "category": "Commercial Vehicle",
+        "brand": "GAC Group",
+        "description": "Elevate your travels with the luxurious GAC Trumpchi M8 MPV. Pamper your family or impress business associates with its spacious interior and panoramic sunroof. Advanced driver-assistance features ensure safety on every journey. Choose from a petrol or hybrid powertrain to suit your needs, and experience the pinnacle of comfort and technology on the road.",
+        "img": [
+            "/images/commercial/GAC Trumpchi M8  1.jpg",
+            "/images/commercial/GAC Trumpchi M8  2.jpg"
+        ],
+        "engine": [
+            "Petrol",
+            "hybrid"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD",
+            "AWD"
+        ],
+        "payload": "Not applicable (passenger vehicle)",
+        "fuel_tank": "64L",
+        "seats": "7 or 6",
+        "features": [
+            "Panoramic sunroof for an airy feel",
+            "Advanced driver-assistance systems for safety",
+            "Luxurious interior with premium materials"
+        ],
+        "dimensions": {
+            "length": "5212 mm",
+            "width": "1893 mm",
+            "height": "1823 mm"
+        },
+        "disclaimers": [
+            "Price may vary depending on configuration and options",
+            "Fuel efficiency may vary based on driving conditions"
+        ]
+    },
+    {
+        "id": 7,
+        "model": "Toyota Land Cruiser",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "The 2024 Toyota Land Cruiser is a legendary full-size SUV known for its off-road prowess, luxurious interior, and advanced technology. It combines durability and reliability with comfort and convenience, making it a versatile choice for any adventure.",
+        "engine": [
+            "Gasoline",
+            "Hybrid"
+        ],
+        "img": [
+            "/images/commercial/land_cruiser_2024.jpg",
+            "/images/commercial/land_cruiser2_2024.jpg"
+        ],
+        "transmission": [
+            "10-spd automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "1,320 lbs",
+        "fuel_tank": "24.6 gal.",
+        "seats": 8,
+        "features": [
+            "LED headlights with Adaptive Front-Lighting System (AFS)",
+            "Power sunroof",
+            "JBL Premium Audio System",
+            "Heated and ventilated front and rear seats",
+            "Toyota Safety Sense 3.0",
+            "Adaptive Variable Suspension"
+        ],
+        "dimensions": {
+            "length": "195 inches",
+            "width": "78 inches",
+            "height": "74 inches"
+        },
+        "additional_informations": [
+            {
+                "name": "Performance",
+                "desc": "The 2024 Land Cruiser is equipped with a powerful V6 engine and a hybrid variant, providing excellent power and efficiency. It offers a smooth ride on highways and robust performance off-road, with a towing capacity of up to 8,100 lbs."
+            },
+            {
+                "name": "Trims and Options",
+                "desc": "The Land Cruiser is available in various trims, including Base, Heritage Edition, and Executive. Each trim offers unique features and upgrades, such as advanced off-road technologies, premium interior materials, and enhanced safety systems."
+            },
+            {
+                "name": "Off-Road Capability",
+                "desc": "Built for adventure, the Land Cruiser features Toyota's advanced off-road systems like Multi-Terrain Select and Crawl Control. It also includes a locking center differential and skid plates, ensuring it can handle the toughest terrains and conditions."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "model": "Toyota Hiace Van",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "The Toyota HiAce Van offers unmatched versatility, whether you need to transport passengers or cargo. Its flexible cargo space allows you to adapt to any hauling needs. Standard safety features ensure a secure ride, and the passenger van configuration boasts a comfortable cabin for a smooth journey for everyone on board. Let the HiAce Van be your reliable companion for work, errands, or family outings.",
+        "img": [
+            "/images/commercial/HiAce 3.jpeg",
+            "/images/commercial/HiAce 2.jpeg",
+            "/images/commercial/HiAce 1.jpeg",
+            "/images/commercial/HiAce 4.jpeg",
+            "/images/commercial/HiAce 5.jpeg"
+        ],
+        "engine": [
+            "Diesel"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD"
+        ],
+        "payload": "1,000 + kg",
+        "fuel_tank": "200L",
+        "seats": "20-30",
+        "features": [
+            "Cargo space flexibility for various needs",
+            "Safety features like airbags and ABS",
+            "Comfortable cabin for passengers (if applicable)"
+        ],
+        "dimensions": {
+            "length": "Varies by model (typical range 5900-6500 mm)",
+            "width": "Approx 1800 mm",
+            "height": "Approx 2280 mm"
+        },
+        "disclaimers": [
+            "Price varies depending on variant and options",
+            "Fuel efficiency may vary based on driving conditions and load"
+        ]
+    },
+    {
+        "id": 9,
+        "model": "Range Rover Sports",
+        "category": "Luxury Cars",
+        "brand": "Jaguar",
+        "description": "The Range Rover Sport is designed for both on-road and off-road performance. It offers a blend of dynamic handling, luxurious interior, and advanced technological features, making it suitable for diverse driving needs.",
+        "engine": [
+            "Diesel",
+            "Gasoline"
+        ],
+        "img": [
+            "/images/luxury/Rang rover sport 4.jpg",
+            "/images/luxury/Rang rover sport 1.jpg",
+            "/images/luxury/Rang rover sport 2.jpg",
+            "/images/luxury/Rang rover sport.jpg"
+        ],
+        "transmission": [
+            "8-spd automatic"
+        ],
+        "drivetrain": [
+            "AWD"
+        ],
+        "payload": "1,800 lbs",
+        "fuel_tank": "23.8 gal.",
+        "seats": 5,
+        "features": [
+            "LED headlights with signature Daytime Running Lights (DRL)",
+            "Sliding panoramic roof",
+            "Meridian Sound System or Meridian 3D Surround Sound System",
+            "Heated steering wheel",
+            "Emergency Braking",
+            "Dynamic Air Suspension"
+        ],
+        "dimensions": {
+            "length": "194.9 inches",
+            "width": "81.6 inches (including mirrors)",
+            "height": "71 inches"
+        },
+        "additional_informations": [
+            {
+                "name": "Performance",
+                "desc": "While not a sports car, the Range Rover Sport offers impressive acceleration and handling for an SUV. Engine options include mild-hybrid variants with strong horsepower, delivering a 0-60 mph time in as low as 5.9 seconds."
+            },
+            {
+                "name": "Trims and Options",
+                "desc": "Several trims are available, including SE, HSE, First Edition, and Autobiography. Each offers increasing levels of luxury features and performance. Options include performance upgrades like a more powerful engine and sport suspension."
+            },
+            {
+                "name": "Off-Road Capability",
+                "desc": "Don't let the sporty feel fool you; the Range Rover Sport retains Land Rover's off-road prowess. It features Land Rover's Terrain Response system with various settings for different terrains, and it boasts a wading depth of up to 850mm."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "model": "Lexus GX",
+        "category": "Luxury Cars",
+        "brand": "Lexus",
+        "description": "The Lexus GX is a rugged yet luxurious SUV designed for both city driving and off-road adventures. It combines advanced off-road capabilities with a spacious and comfortable interior, featuring cutting-edge technology and premium materials.",
+        "engine": [
+            "Gasoline"
+        ],
+        "img": [
+            "/images/luxury/lexus GX.jpg",
+            "/images/luxury/lexus GX 2.jpg",
+            "/images/luxury/lexus GX 3.jpg",
+            "/images/luxury/lexus GX 4.jpg"
+        ],
+        "transmission": [
+            "6-spd automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "1,335 lbs",
+        "fuel_tank": "23.0 gal.",
+        "seats": 7,
+        "features": [
+            "Triple-Beam LED Headlights",
+            "Power moonroof",
+            "Mark Levinson Surround Sound Audio System",
+            "Heated and ventilated front seats",
+            "Lexus Safety System+",
+            "Adaptive Variable Suspension"
+        ],
+        "dimensions": {
+            "length": "192.1 inches",
+            "width": "74.2 inches",
+            "height": "74.2 inches"
+        },
+        "additional_informations": [
+            {
+                "name": "Performance",
+                "desc": "The Lexus GX is powered by a robust V8 engine, delivering ample power and torque for both on-road and off-road driving. It offers a smooth and controlled ride, with the ability to handle challenging terrains with ease."
+            },
+            {
+                "name": "Trims and Options",
+                "desc": "Available in multiple trims including the GX 460 and GX 460 Luxury. Each trim provides varying levels of luxury and technological enhancements, with options for premium audio systems, advanced safety features, and off-road packages."
+            },
+            {
+                "name": "Off-Road Capability",
+                "desc": "The GX features a body-on-frame construction, full-time 4WD, and Lexus' Kinetic Dynamic Suspension System (KDSS). These elements combine to offer exceptional off-road performance, including the ability to navigate through rugged terrains and deep water crossings."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "model": "Range Rover Evoque",
+        "category": "Luxury Cars",
+        "brand": "Jaguar",
+        "description": "The Evoque features a modern and sophisticated design with advanced technology and luxurious amenities. It offers a range of high-end features tailored for comfort, convenience, and safety.",
+        "engine": [
+            "Petrol"
+        ],
+        "img": [
+            "/images/luxury/Evoque 1.jpg",
+            "/images/luxury/Evoque 2.jpg",
+            "/images/luxury/Evoque 3.jpg",
+            "/images/luxury/Evoque 4.jpg"
+        ],
+        "transmission": [
+            "9-spd automatic"
+        ],
+        "drivetrain": [
+            "AWD"
+        ],
+        "payload": "1,410 lbs",
+        "fuel_tank": "67L",
+        "seats": 5,
+        "features": [
+            "LED headlights with signature DRL",
+            "Automatic headlight leveling",
+            "Two-zone climate control",
+            "Meridian sound system",
+            "Adaptive Cruise Control",
+            "Blind Spot Assist",
+            "Keyless entry"
+        ],
+        "dimensions": {
+            "length": "172.1 inches (4,372 mm)",
+            "width": "78.6 inches (1,995 mm)",
+            "height": "64.9 inches (1,649 mm)"
+        },
+        "additional_informations": [
+            {
+                "name": "Trims and Customization",
+                "desc": "While it comes in a single, fully-loaded Dynamic SE trim level in India, other regions might offer more options. The Evoque allows for some personalization through optional features and packages. Here are some possibilities: Black Pack: adds a more aggressive look with black exterior accents. Driver Assist Pack: includes advanced driver-assistance features like blind spot monitoring and adaptive cruise control. Cabin Upgrades: options like premium upholstery materials and a panoramic sunroof can further elevate the interior experience."
+            },
+            {
+                "name": "Off-Road Capability",
+                "desc": "The Evoque might prioritize style, but it still offers some off-road capability: Terrain Response System: Select from various driving modes like Sand, Eco, or Mud & Ruts to optimize traction on different terrains. Wade Sensing: Helps you navigate through water crossings by displaying the water depth on the instrument cluster. Hill Descent Control: Maintains a controlled speed when going downhill for added confidence."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "model": "Mercedes GLE",
+        "category": "Luxury Cars",
+        "brand": "Mercedes",
+        "description": "The Mercedes GLE is a stylish and luxurious SUV featuring redesigned headlamps, 100% LED lighting, and various wheel options from 19 to 22 inches. It combines sportiness with luxury, offering features like Nappa leather sport seats and a flat-bottom steering wheel.",
+        "engine": [
+            "Diesel"
+        ],
+        "img": [
+            "/images/luxury/Mercedes GLE 6.jpg",
+            "/images/luxury/Mercedes GLE 2.jpg",
+            "/images/luxury/Mercedes GLE 4.webp",
+            "/images/luxury/Mercedes GLE 5.jpg",
+            "/images/luxury/Mercedes GLE 1.jpg",
+            "/images/luxury/Mercedes GLE 3.webp"
+        ],
+        "transmission": [
+            "9G-T automatic"
+        ],
+        "drivetrain": [
+            "4M AWD"
+        ],
+        "payload": "1,500 lbs",
+        "fuel_tank": "85L",
+        "seats": 5,
+        "features": [
+            "Redesigned headlamps",
+            "100% LED lighting technology",
+            "Nappa leather sport seats",
+            "Flat-bottomed steering wheel",
+            "Active Distance Assist DISTRONIC",
+            "Active Steering Assist",
+            "Keyless-Go"
+        ],
+        "dimensions": {
+            "length": "194.3 inches",
+            "width": "84.9 inches (including mirrors)",
+            "height": "70.7 inches"
+        },
+        "additional_informations": [
+            {
+                "name": "Performance Options and Ride Quality",
+                "desc": "While the GLE offers a comfortable ride, there are options for those who prioritize performance: AMG GLE 53: This variant features a powerful turbocharged inline-6 engine with an electric motor, offering exhilarating acceleration and sporty handling. Air Suspension: Available on some models, it provides exceptional ride quality and adjustable ground clearance for better off-road capability. "
+            },
+            {
+                "name": "Technology and Driver Assistance",
+                "desc": "The Mercedes-Benz User Interface (MBUX) is a highlight, featuring a large touchscreen display and voice recognition for intuitive control of infotainment and vehicle features. Advanced driver-assistance systems (ADAS) are available."
+            },
+            {
+                "name": "Cargo Space and Interior Options",
+                "desc": "The GLE offers ample cargo space, with the option for a third-row seat to increase passenger capacity to seven. Interior material options range from luxurious leather to wood accents, allowing you to personalize the cabin to your taste."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "model": "Mercedes G63",
+        "category": "Luxury Cars",
+        "brand": "Mercedes",
+        "description": "The Mercedes-AMG G63 is a powerful and luxurious SUV known for its off-road capabilities and high-performance features.",
+        "img": [
+            "/images/luxury/Mercedes G63 3.jpg",
+            "/images/luxury/Mercedes G63 4.jpg",
+            "/images/luxury/Mercedes G63 5.jpg",
+            "/images/luxury/Mercedes G63 8.jpg",
+            "/images/luxury/Mercedes G63 9.jpg"
+        ],
+        "engine": [
+            "Gasoline"
+        ],
+        "transmission": [
+            "9-spd automatic"
+        ],
+        "drivetrain": [
+            "AWD"
+        ],
+        "payload": "1,422 lbs",
+        "fuel_Tank": "26.4 gal",
+        "seats": 5,
+        "features": [
+            "Handcrafted AMG 4.0L V8 biturbo engine",
+            "Premium interior materials",
+            "Advanced safety and driver assistance systems",
+            "High-performance brakes",
+            "Infotainment system with navigation"
+        ],
+        "disclaimer": "Specifications and features are subject to change without notice.",
+        "dimensions": {
+            "length": "191.9 inches (4875 mm)",
+            "width": "76.0 inches (1930 mm)",
+            "height": "77.5 inches (1968 mm)"
+        },
+        "additional_informations": [
+            {
+                "name": "Off-Road Prowess",
+                "desc": "The G 63 isn't just powerful; it's a beast off-road.",
+                "features": [
+                    "4MATIC All-Wheel Drive with Three Differential Locks: This advanced system distributes power to all wheels and allows you to lock the front, rear, and center differentials for maximum traction in challenging terrain.",
+                    "Approach, Breakover, and Departure Angles: These angles measure the G 63's ability to climb over obstacles and steep inclines.",
+                    "Durable Construction: The body-on-frame chassis and high-strength materials ensure the G 63 can withstand tough off-road conditions."
+                ]
+            },
+            {
+                "name": "On-Road Performance and Customization",
+                "desc": "While the G 63 excels off-road, it also delivers surprising on-road performance.",
+                "features": [
+                    "AMG-tuned suspension: This suspension strikes a balance between off-road capability and comfortable handling on paved roads.",
+                    "Multiple Drive Modes: Choose from various drive modes like Comfort, Sport, and Off-Road to optimize performance for different situations.",
+                    "Customization Options: A variety of wheels, exterior accents, and interior trim packages allow you to personalize your G 63 to reflect your style."
+                ]
+            },
+            {
+                "name": "Heritage and Legacy",
+                "desc": "The Mercedes-Benz G-Class has a long and illustrious history, dating back to the 1970s. Originally designed for military use, it gained civilian popularity for its ruggedness and capability. The G 63 upholds this heritage while offering modern luxury and performance."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "model": "Mercedes G500",
+        "category": "Luxury Cars",
+        "brand": "Mercedes",
+        "description": "The Mercedes-Benz G500 is a luxury SUV that combines iconic design with advanced off-road capabilities. It features a rugged yet stylish exterior, and a luxurious, spacious interior with state-of-the-art technology and comfort.",
+        "img": [
+            "/images/luxury/Mercedes G 500 2.jpeg",
+            "/images/luxury/Mercedes G 500 4.jpg",
+            "/images/luxury/Mercedes G 500 3.jpg",
+            "/images/luxury/Mercedes G 500 1.jpeg",
+            "/images/luxury/Mercedes G 500 5.jpg"
+        ],
+        "engine": [
+            "Gasoline"
+        ],
+        "transmission": [
+            "9-spd automatic"
+        ],
+        "drivetrain": [
+            "AWD"
+        ],
+        "payload": "1,500 lbs",
+        "fuel_Tank": "96L",
+        "seats": 5,
+        "features": [
+            "Engine: 4.0-liter V8 biturbo engine producing 422 horsepower and 610 Nm of torque",
+            "Performance: 0-100 km/h in approximately 5.8 seconds, top speed of 250 km/h",
+            "Safety Features: Advanced Air Bags System (AABS), ABS, anti-theft alarm, blind spot warning, and more",
+            "Comfort and Convenience: Includes features like automatic air conditioning, ambient lighting, and a range of interior customization options"
+        ],
+        "disclaimer": "Actual vehicle specifications and features may vary based on the region and specificmmodel year. It's always best to consult the official Mercedes-Benz website or a local dealership for the most accurate and detailed information",
+        "dimensions": {
+            "length": "4d715 meters",
+            "width": "1.988 meters",
+            "height": "1.958 meters"
+        },
+        "dditional_Informations": [
+            {
+                "name": "Comparison to Mercedes-AMG G 63",
+                "desc": "While both are powerful off-road performers, the G 500 stands out in a few ways: Engine: The G 500 features a twin-turbocharged V8 engine, offering excellent power without the slightly more extreme performance of the G 63's AMG-tuned V8. Focus: The G 500 prioritizes a balance of power, comfort, and off-road capability. It might appeal to drivers who want a luxurious SUV with impressive off-road prowess without the most extreme performance numbers. Price: The G 500 is generally priced lower than the G 63.",
+                "features": []
+            },
+            {
+                "name": "On-Road Comfort and Refinement",
+                "desc": "The G 500 offers a surprisingly comfortable and refined ride for a boxy SUV. Here's what contributes: Suspension: The suspension is tuned to provide a balance between handling capability and a smooth ride on various road surfaces. Luxurious Interior: High-quality materials, comfortable seating, and advanced noise cancellation create a tranquil cabin environment. Technology Features: The Mercedes-Benz User Interface (MBUX) infotainment system with a large touchscreen and voice commands enhances comfort and convenience.",
+                "features": []
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "model": "Lexus LX 600",
+        "category": "Luxury Cars",
+        "brand": "Lexus",
+        "description": "The Lexus LX 600 is known for its robust off-road capabilities paired with luxury features, offering a smooth ride and extensive amenities.",
+        "img": [
+            "/images/luxury/Lexus LX 6002.jpg",
+            "/images/luxury/Lexus LX 600 1.jpg",
+            "/images/luxury/Lexus LX 600.jpg",
+            "/images/luxury/Lexus LX 600 3.jpeg"
+        ],
+        "engine": [
+            "Gasoline"
+        ],
+        "transmission": [
+            "10-spd automatic"
+        ],
+        "drivetrain": [
+            "Full-time 4x4"
+        ],
+        "payload": "8,001 lbs",
+        "fuel_Tank": "21.1 gal",
+        "seats": 7,
+        "features": [
+            "Sunroof, heated and ventilated seats, head-up display, surround-view camera, adaptive cruise control, Apple CarPlay, Android Auto, wireless phone charging."
+        ],
+        "disclaimer": "Specifications may vary based on the market and model year",
+        "dimensions": {
+            "length": "5,095 mm (200.6 inches)",
+            "width": "1,990 mm (78.3 inches)",
+            "height": "1,885 mm (74.2 inches)"
+        },
+        "additional_informations": [
+            {
+                "name": "Luxury Interior Features",
+                "desc": "The LX 600 boasts a luxurious and technology-packed interior: Spacious Cabin with Three-Row Seating: The LX 600 comfortably seats seven passengers with ample legroom and headroom in all three rows. Premium Materials: Lexus uses high-quality materials throughout the cabin, including leather upholstery, wood trim accents, and soft-touch surfaces. Advanced Technology: The Lexus Interface infotainment system features a large touchscreen display, Apple CarPlay, Android Auto, and a premium Mark Levinson sound system. Comfort Features: Amenities like heated and ventilated seats, a panoramic moonroof, and four-zone climate control enhance passenger comfort on every journey.",
+                "features": []
+            },
+            {
+                "name": "Off-Road Capability",
+                "desc": "While known for luxury, the LX 600 offers impressive off-road capability: All-Wheel Drive System: The advanced all-wheel-drive system with various drive modes like Mud, Sand, and Deep Snow optimizes traction on different terrains. Hill Descent Control and Crawl Control: These features help you maintain a controlled speed while going downhill or navigating challenging terrain. Ground Clearance: The LX 600 has ample ground clearance to handle uneven surfaces and obstacles.",
+                "features": []
+            },
+            {
+                "name": "Lexus Safety System+ 3.0",
+                "desc": "This advanced driver-assistance system includes features like Pre-Collision System with Automatic Emergency Braking: Warns you of potential frontal collisions and can apply automatic braking to help avoid them. Lane Departure Alert with Steering Assist: Alerts you if you unintentionally stray from your lane and can gently nudge you back. Blind Spot Monitoring: Warns you of vehicles in your blind spot when changing lanes. Lexus anticipates adding even more advanced features in the future.",
+                "features": []
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "model": "Lexus RX 350",
+        "category": "Luxury Cars",
+        "brand": "Lexus",
+        "description": "The Lexus RX offers a blend of luxury and performance, featuring advanced technology, premium materials, and a powerful engine. It is designed to deliver a smooth and refined driving experience, both on and off-road",
+        "img": [
+            "/images/luxury/lexus_rx_350.jpg",
+            "/images/luxury/lexus_rx_3501.jpg",
+            "/images/luxury/lexus_rx_3502.jpg",
+            "/images/luxury/lexus_rx_3503.jpg"
+        ],
+        "engine": [
+            "Gasoline"
+        ],
+        "transmission": [
+            "10-spd automatic"
+        ],
+        "drivetrain": [
+            "Full-time 4WD"
+        ],
+        "payload": "8003 lbs",
+        "fuel_Tank": "24.6 gal",
+        "seats": 7,
+        "features": [
+            "Engine: 3.4 L V6 Twin-turbo producing 409 hp",
+            "Safety: 10 airbags, Lexus Safety System+",
+            "Infotainment: Advanced multimedia system with a high-definition display",
+            "Interior: Premium leather seating, adjustable seating configurations",
+            "Exterior: Sleek design with LED headlights, customizable exterior options"
+        ],
+        "disclaimer": "The specifications mentioned above are standard and may vary based on the model and optional packages selected.",
+        "dimensions": {
+            "length": "5096 mm (200.6 inches)",
+            "width": "1989 mm (78.3 inches)",
+            "height": "1885 mm (74.2 inches)"
+        },
+        "additional_informations": [
+            {
+                "name": "Previously Offered Features (may vary depending on model year)",
+                "desc": "The RX 350 offered a comfortable and refined cabin with three-row seating for seven. High-quality materials like leather upholstery and wood trim accents were common. The 3.5-liter V6 engine provided enough power for most driving situations. Lexus is known for its reliability, and the LX 350 was expected to last for many years with proper maintenance. All-wheel drive and features like hill descent control helped the RX 350 handle light off-road trails.",
+                "features": []
+            },
+            {
+                "name": "Things to Consider When Looking at a Used Lexus RX 350",
+                "desc": "Features, technology, and performance might vary depending on the RX 350's model year. Research the specific year you're interested in to understand its exact features and capabilities. As with any used car, thoroughly inspect the vehicle's condition and check the mileage history. Consider a pre-purchase inspection by a trusted mechanic. While Lexus vehicles are known for reliability, replacement parts and service costs might be higher compared to some common car brands.",
+                "features": []
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "model": "Toyota Veloz Cross",
+        "category": "Affordable Cars",
+        "brand": "Toyota",
+        "description": "The Toyota Veloz is a 7-seater MPV (Multi-Purpose Vehicle) that is marketed in Southeast Asian countries like the Philippines, Indonesia, and Thailand. It is positioned as a stylish and feature-rich option for families. Here's a breakdown of the Toyota Veloz's key features: Design: The Veloz has a modern and sophisticated design with a bold front grille, sharp LED headlights, and 17-inch alloy wheels. It also has a spacious and comfortable interior with three rows of seating. Engine: The Veloz is powered by a 1.5-liter 4-cylinder engine that produces 106 horsepower and 138 Nm of torque. It is available with either a CVT (Continuously Variable Transmission) or a manual transmission. Fuel Economy: The Veloz is known for its fuel efficiency, thanks to its lightweight construction and efficient engine. Features: The Veloz comes with a variety of features, including a touchscreen infotainment system, automatic climate control, power windows and locks, and a rearview camera. Higher-end variants may also include features like leather seats, a sunroof, and advanced driver-assistance systems. Seating: The Veloz can seat up to seven passengers comfortably. The second-row seats are foldable and can be tumbled forward to provide easy access to the third-row seats. The third-row seats can also be folded flat to provide more cargo space. Overall, the Toyota Veloz is a well-rounded MPV that offers a good balance of style, comfort, practicality, and fuel efficiency. It is a great option for families who are looking for a versatile and reliable vehicle.",
+        "img": [
+            "/images/affordable/Veloz Cross 1.jpg",
+            "/images/affordable/Veloz Cross 2.jpg",
+            "/images/affordable/Veloz Cross 3.jpg",
+            "/images/affordable/Veloz Cross 4.webp"
+        ],
+        "engine": [
+            "Gasoline"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD",
+            "AWD"
+        ],
+        "payload": "1,007 lbs.",
+        "fuel_tank": "43L",
+        "seats": 7,
+        "features": [
+            "4-Cylinder, In-line, 16-Valve DOHC with Dual VVT-i",
+            "Lane departure warning system (LDA)",
+            "Pre-collision warning system (PCS)",
+            "Automatic high beam (AHB)",
+            "Power transmission system",
+            "Multi-information display screen"
+        ],
+        "disclaimers": [],
+        "dimensions": {
+            "length": "4,475 mm",
+            "width": "1,750 mm",
+            "height": "1,700 mm"
+        },
+        "additional_informations": ""
+    },
+    {
+        "id": 18,
+        "model": "Nissan petrol",
+        "category": "Affordable Cars",
+        "brand": "Nissan",
+        "description": "Nissan offers a diverse range of petrol-powered vehicles, including sedans, SUVs, crossovers, hatchbacks, and pickup trucks. Known for their reliability, performance, and innovative features, Nissan petrol vehicles cater to a wide range of drivers' needs and preferences.",
+        "img": [
+            "/images/affordable/Nissan petrol 2.jpg",
+            "/images/affordable/Nissan petrol 3.jpg",
+            "/images/affordable/Nissan petrol 1.jpg",
+            "/images/affordable/Nissan petrol 4.jpg",
+            "/images/affordable/Nissan petrol 5.jpeg"
+        ],
+        "engine": [
+            "Petrol"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "3,500 kg",
+        "fuel_tank": "140L",
+        "seats": "5 or 7",
+        "features": [
+            "Hybridization and Electrification",
+            "Advanced Internal Combustion Engines",
+            "Improved Connectivity and Infotainment",
+            "Enhanced Safety and Driver Assistance Technologies",
+            "Lightweight Materials and Aerodynamics"
+        ],
+        "disclaimers": [],
+        "dimensions": {
+            "length": "531.5 cm",
+            "width": "226.5 cm",
+            "height": "195.5 cm"
+        },
+        "additional_informations": [
+            {
+                "name": "Autonomous Driving Capabilities",
+                "description": "Nissan may integrate autonomous driving technologies into its petrol vehicles, allowing for hands-free driving in certain conditions. This could include features like highway autopilot and advanced parking assistance systems."
+            },
+            {
+                "name": "Augmented Reality Displays",
+                "description": "Future Nissan models could incorporate augmented reality (AR) heads-up displays or windshield overlays to provide drivers with real-time information, navigation guidance, and safety alerts without taking their eyes off the road."
+            },
+            {
+                "name": "Advanced Vehicle-to-Everything (V2X) Communication",
+                "description": "Nissan may implement V2X communication technology in its petrol vehicles, enabling them to communicate with other vehicles, infrastructure, and pedestrians to improve safety, traffic flow, and efficiency."
+            },
+            {
+                "name": "Health and Wellness Monitoring",
+                "description": "Nissan could introduce health and wellness monitoring systems that use biometric sensors to track driver fatigue, stress levels, and overall well-being, providing alerts and recommendations to ensure safe driving."
+            },
+            {
+                "name": "Advanced Materials and Manufacturing Techniques",
+                "description": "Nissan may leverage advanced materials such as carbon fiber, aluminum alloys, and high-strength steel, along with innovative manufacturing techniques like 3D printing, to enhance vehicle durability, performance, and efficiency."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "model": "Toyota highlander",
+        "category": "Affordable Cars",
+        "brand": "Toyota",
+        "description": "The Toyota Highlander is a midsize crossover SUV that's known for its comfort, versatility, and reliability. Here's an overview of its key features:",
+        "img": [
+            "/images/affordable/Toyota highlander 3.avif",
+            "/images/affordable/Toyota highlander 1.avif",
+            "/images/affordable/Toyota highlander 5.jpg",
+            "/images/affordable/Toyota highlander 2.jpg"
+        ],
+        "engine": [
+            "Gasoline"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "AWD"
+        ],
+        "payload": "1,800 pounds",
+        "fuel_tank": "17.9-gallon",
+        "seats": 5,
+        "features": [
+            "Dynamic Torque Vectoring AWD",
+            "Power-Folding Mirrors",
+            "Twin-Tip Exhaust",
+            "Hands-Free Power Rear Liftgate",
+            "LED Headlights",
+            "12.3-In. Fully Digital Gauge Cluster",
+            "Panoramic Moonroof",
+            "Qi Wireless Charging"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": "4,950–5,014 mm",
+            "width": "1,930 mm (76.0 in)",
+            "height": "1,730–1,755 mm"
+        },
+        "additional_information": [
+            {
+                "name": "Fuel Economy",
+                "description": "Fuel efficiency varies depending on a model year and drivetrain. Recent models with the 2.4L turbocharged engine and FWD achieve an estimated combined fuel economy of up to 29 mpg. The Highlander Hybrid offers even better fuel economy, with estimates reaching up to 36 mpg combined."
+            },
+            {
+                "name": "Safety Features",
+                "description": "The Toyota Highlander comes with a suite of standard safety features, including automatic emergency braking with pedestrian detection, lane departure warning, and adaptive cruise control. Higher trims offer additional features such as blind spot monitoring and rear cross-traffic alert."
+            },
+            {
+                "name": "Technology Features",
+                "description": "Available technology features include a large touchscreen infotainment system with wireless Apple CarPlay and Android Auto compatibility, a panoramic sunroof, and a JBL premium sound system."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "model": "Toyota Land Cruiser Prado",
+        "category": "Affordable Cars",
+        "brand": "Toyota",
+        "description": "The Toyota Land Cruiser Prado is a rugged and reliable SUV that's renowned for its off-road capabilities and durability. It's a smaller variant of the classic Toyota Land Cruiser, designed to offer similar toughness in a more compact package. The Prado is popular worldwide, especially in regions where rough terrain and challenging driving conditions are common. It's often praised for its comfortable ride, spacious interior, and impressive towing capacity, making it a versatile choice for both everyday driving and adventurous off-road trips.",
+        "img": [
+            "/images/affordable/Land cruiser prado 2.jpg",
+            "/images/affordable/Land cruiser prado 5.jpg",
+            "/images/affordable/Land cruiser prado 3.jpg",
+            "/images/affordable/Land cruiser prado 4.jpg"
+        ],
+        "engine": [
+            "Diesel"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "Full-time 4WD"
+        ],
+        "payload": "3500 kg",
+        "fuel_tank": "150L",
+        "seats": "5 or 7",
+        "features": [
+            "Toyota Safety Sense™ 3.0",
+            "mobile Connected Services",
+            "60/40 Split Rear Seat",
+            "Head-Up Display",
+            "Audio Multimedia",
+            "Qi Wireless Charging and USB-C Charging Ports",
+            "Enhanced Safety Features"
+        ],
+        "disclaimers": [
+            ""
+        ],
+        "dimensions": {
+            "length": "4995 mm",
+            "width": "1885  mm",
+            "height": "1845  mm"
+        }
+    },
+    {
+        "id": 21,
+        "model": "Toyota Land Cruiser",
+        "category": "Affordable Cars",
+        "brand": "Toyota",
+        "description": "The Toyota Land Cruiser is a robust and reliable SUV, renowned for its off-road capabilities, luxurious interior, advanced technology, and powerful performance, making it ideal for both adventure and everyday driving.",
+        "img": [
+            "/images/affordable/toyota Land cruiser 1.webp",
+            "/images/affordable/toyota Land cruiser 2.webp",
+            "/images/affordable/toyota Land cruiser 4.webp",
+            "/images/affordable/toyota Land cruiser 5.webp"
+        ],
+        "engine": [
+            "Diesel",
+            "Hybrid"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "1,687 lbs.",
+        "fuel_tank": "110 L",
+        "seats": 7,
+        "features": [
+            "Fog Lamps [Front & Rear]",
+            "Outside Rear View Mirror: Powered, Heated, Anti Glare, Chrome Plated with Puddle Lamps",
+            "Sunroof with Jam Protection",
+            "Roof Rails",
+            "Smooth Leather Uphoulstery",
+            "Seat Ventilation & Heating [Front & Rear]",
+            "Head Up Display"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": "498.5 cm",
+            "width": "198 cm",
+            "height": "194.5 cm"
+        }
+    },
+    {
+        "id": 22,
+        "model": "Toyota Sienna",
+        "category": "Affordable Cars",
+        "brand": "Toyota",
+        "description": "The Toyota Sienna is a versatile and spacious minivan, perfect for families and those who need ample cargo space. With a hybrid electric powertrain, the Sienna offers impressive fuel efficiency and a smooth driving experience. The all-wheel-drive system provides confidence in various driving conditions.",
+        "img": [
+            "/images/affordable/Toyota Sienna 3.avif",
+            "/images/affordable/Toyota Sienna 2.jpg",
+            "/images/affordable/Toyota Sienna 4.webp",
+            "/images/affordable/Toyota Sienna 5.jpg"
+        ],
+        "engine": [
+            "Gasoline",
+            "hev"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "AWD"
+        ],
+        "payload": "3,500 lbs",
+        "fuel_tank": "68.0 L.",
+        "seats": 5,
+        "features": [
+            "Seven USB Ports",
+            "1500W-Capable Power Outlet",
+            "Driver Easy Speak",
+            "All-Wheel Drive Capability",
+            "Hybrid Performance",
+            "Sport-Tuned Suspension"
+        ],
+        "disclaimers": [],
+        "dimensions": {
+            "length": "5,170–5,180 mm (203.7–204.1 in)",
+            "width": "1,990 mm (78.5 in)",
+            "height": "1,740–1,780 mm (68.5–70 in)"
+        }
+    },
+    {
+        "id": 23,
+        "model": "Hyundai Tucson",
+        "category": "Affordable Cars",
+        "brand": "Hyundai",
+        "description": "The Hyundai Tucson is a compact SUV that offers a comfortable and capable driving experience. With a range of fuel-efficient engines and available all-wheel drive, the Tucson is ready for both city streets and off-road adventures. Its stylish design, spacious interior, and advanced technology features make it a popular choice for those seeking a versatile and modern SUV.",
+        "img": [
+            "/images/affordable/hyundai tucson 5.jpg",
+            "/images/affordable/hyundai tucson 4.webp",
+            "/images/affordable/hyundai tucson 2.webp",
+            "/images/affordable/hyundai tucson 3.jpg"
+        ],
+        "engine": [
+            "Diesel",
+            "Petrol"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "1587 kg",
+        "fuel_tank": "54L",
+        "seats": 5,
+        "features": [
+            "Drive mode select - Eco, Normal, Sport",
+            "Multi terrain modes (Snow, Mud, Sand)",
+            "Vehicle stability management (VSM)",
+            "Hill-start assist control (HAC)",
+            "Downhill brake control (DBC)",
+            "Tyre pressure monitoring system (TPMS) [Highline]"
+        ],
+        "disclaimers": [
+            "Smart mode is applicable only for Diesel trims.",
+            "Some of the equipments illustrated or described in a leaflet may not be supplied as standard equipment and may be available at extra cost.",
+            "Functionality of Bluelink depends on adequate power supply and uninterrupted network connectivity to infotainment system. The Bluelink system is designed in such a way that it makes vehicle theft difficult if its circuit and battery connection is uninterrupted",
+            "Hyundai Motor India reserves the right to change specifications and equipment without prior notice.",
+            "The colour plates shown may vary slightly from the actual colours due to the limitations of the web image process.",
+            "Please consult your dealer for full information and availability on colours and trim."
+        ],
+        "dimensions": {
+            "length": "4630 mm",
+            "width": "1428 kg",
+            "height": "1665 mm"
+        }
+    },
+    {
+        "id": 24,
+        "model": "Toyota Fortuner",
+        "category": "Affordable Cars",
+        "brand": "Toyota",
+        "description": "The Toyota Fortuner is a mid-size SUV that shares its platform with the Toyota Hilux pickup truck. It's designed to offer ruggedness, versatility, and off-road capability while providing comfort and convenience for both on-road and off-road driving. Here's a description of its key features:",
+        "img": [
+            "/images/affordable/Toyota Fortuner 1.webp",
+            "/images/affordable/Toyota Fortuner 2.jpeg",
+            "/images/affordable/Toyota Fortuner 3.jpeg",
+            "/images/affordable/Toyota Fortuner 4.jpeg",
+            "/images/affordable/Toyota Fortuner 5.jpeg"
+        ],
+        "engine": [
+            "Diesel",
+            "petrol"
+        ],
+        "transmission": [
+            "Manual",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "2WD",
+            "4WD"
+        ],
+        "payload": null,
+        "fuel_tank": "80 L",
+        "seats": 7,
+        "features": [
+            "VSC (Vehicle Stability Control) with BA (Brake Assist)",
+            "HAC (Hill Assist Control)",
+            "TRC (Traction Control System)",
+            "7 (Units) SRS Airbags**",
+            "Anti Theft Alarm with Ultrasonic Sensor and Glass Break Sensor",
+            "Front Seats: WIL Concept Seats [Whiplash Injury Lessening]",
+            "Child Restraint System: ISOFIX + Tether Anchor on 2nd Row",
+            "20+ Additional Features"
+        ],
+        "disclaimers": [
+            ""
+        ],
+        "dimensions": {
+            "length": "479.5 cm",
+            "width": "185.5 cm",
+            "height": "183.5 cm"
+        },
+        "additional_information": [
+            {
+                "name": "Exterior Design",
+                "desc": "The Fortuner boasts a bold and muscular exterior design, with prominent wheel arches, a high ground clearance, and a distinctive front grille that exudes a sense of strength and capability. Its robust appearance is complemented by features like roof rails and alloy wheels."
+            },
+            {
+                "name": "Engine Options",
+                "desc": "Depending on the market, the Fortuner is typically available with a range of diesel and gasoline engines, providing a balance between performance and fuel efficiency. These engines are often paired with manual or automatic transmissions, offering flexibility for different driving preferences."
+            },
+            {
+                "name": "Off-Road Capability",
+                "desc": "Like its sibling, the Toyota Land Cruiser Prado, the Fortuner is known for its off-road prowess. It features robust underpinnings, including a sturdy ladder-frame chassis and a capable four-wheel-drive system, making it well-suited for tackling challenging terrain."
+            },
+            {
+                "name": "Interior Comfort and Features",
+                "desc": "Inside, the Fortuner offers a spacious and comfortable cabin with seating for up to seven passengers, depending on the configuration. The interior is often well-appointed, with quality materials, modern design elements, and a range of convenience features such as touchscreen infotainment systems, climate control, and various connectivity options."
+            },
+            {
+                "name": "Safety Features",
+                "desc": "Safety is a priority in a Fortuner, with advanced features like multiple airbags, stability control, traction control, anti-lock brakes, and a suite of driver assistance technologies, depending on the model and trim level. These features help ensure peace of mind for both the driver and passengers."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "model": "BYD Atto 3",
+        "category": "Hybrid and Ev",
+        "brand": "BYD",
+        "description": "The BYD Atto 3 is a mid-size electric SUV that combines a sporty design with a focus on performance and technology. It boasts a powerful electric motor, a spacious and comfortable interior, and an impressive driving range. The BYD e-Platform 3.0, designed specifically for EVs, underpins the vehicle, aiming for better performance, safety, and efficiency.",
+        "img": [
+            "/images/Hybrid&Ev/BYD ATTO 3 - EV.jpg",
+            "/images/Hybrid&Ev/BYD ATTO 3 - EV.webp",
+            "/images/Hybrid&Ev/BYD ATTO 3 - EV2.jpg",
+            "/images/Hybrid&Ev/BYD ATTO 3 - EV3.jpg",
+            "/images/Hybrid&Ev/BYD ATTO 3 - EV4.jpg"
+        ],
+        "engine": [
+            "Electric"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD"
+        ],
+        "payload": "450 + kg",
+        "fuel_tank": "Not Applicable",
+        "seats": 5,
+        "features": [
+            "Blade Battery: BYD's proprietary lithium iron phosphate (LFP) battery technology, known for safety and durability.",
+            "Fast charging capability: 0 to 80% in 50 minutes (using an 80 kW DC charger)",
+            "Driver-assistance features include automatic emergency braking, lane departure warning, and blind spot monitoring (availability may vary depending on market)",
+            "Panoramic sunroof (optional on some models)",
+            "Rotatable touchscreen infotainment system"
+        ],
+        "disclaimers": [
+            "Price varies depending on market and variant (check BYD website for latest pricing)",
+            "Specific features and functionalities may vary depending on the market."
+        ],
+        "dimensions": {
+            "length": "4,400 mm (estimated)",
+            "width": "1,870 mm (estimated)",
+            "height": "1,600 mm (estimated)"
+        }
+    },
+    {
+        "id": 26,
+        "model": "Toyota C-HR Hybrid",
+        "category": "Hybrid and Ev",
+        "brand": "Toyota",
+        "description": "The Toyota C-HR Hybrid blends a sporty design with a fuel-efficient hybrid powertrain. It offers a comfortable and spacious interior for its size, making it suitable for city driving and occasional adventures. Standard Toyota Safety Sense 2.0 equips the C-HR with advanced driver-assistance features.",
+        "img": [
+            "/images/Hybrid&Ev/chr1.jpg",
+            "/images/Hybrid&Ev/chr2.jpg",
+            "/images/Hybrid&Ev/chr3.webp",
+            "/images/Hybrid&Ev/chr4.jpg"
+        ],
+        "engine": [
+            "Petrol",
+            "Electric"
+        ],
+        "transmission": [
+            "Manual"
+        ],
+        "drivetrain": [
+            "FWD"
+        ],
+        "payload": null,
+        "fuel_tank": "43L",
+        "seats": 5,
+        "features": [
+            "Toyota Safety Sense 2.0: Includes features like automatic emergency braking, lane departure warning, adaptive cruise control, and more.",
+            "8-inch touchscreen infotainment system with Apple CarPlay and Android Auto smartphone integration",
+            "Bluetooth connectivity",
+            "Six-speaker audio system",
+            "Heated front seats (optional on some trims)",
+            "Moonroof (optional on some trims)"
+        ],
+        "disclaimers": [
+            "Price varies depending on market and variant (check Toyota website for latest pricing)",
+            "Fuel efficiency may vary based on driving conditions",
+            "Specific features and functionalities may vary depending on the market."
+        ],
+        "dimensions": {
+            "length": "4,360 mm (estimated)",
+            "width": "1,795 mm (estimated)",
+            "height": "1,565 mm (estimated)"
+        }
+    },
+    {
+        "id": 27,
+        "model": "Toyota Highlander Hybrid",
+        "category": "Hybrid and Ev",
+        "brand": "Toyota",
+        "description": "The Toyota Highlander Hybrid merges practicality, comfort, and impressive fuel efficiency. It boasts a spacious interior that can seat up to eight passengers and ample cargo space. Standard all-wheel drive provides confidence in all weather. While the initial cost might be higher than gasoline models, fuel savings over time can be significant. With a focus on fuel efficiency, space, safety, and reliability, the Highlander Hybrid is a compelling choice for families and those seeking a well-rounded SUV.",
+        "img": [
+            "/images/Hybrid&Ev/hightlander2.jpg",
+            "/images/Hybrid&Ev/highlander1.png",
+            "/images/Hybrid&Ev/highlander3.jpeg",
+            "/images/Hybrid&Ev/highlander4.jpg",
+            "/images/Hybrid&Ev/highlander5.jpg"
+        ],
+        "engine": [
+            "Petrol",
+            "Electric"
+        ],
+        "transmission": [
+            "Manual",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD",
+            "AWD"
+        ],
+        "payload": "1500kg",
+        "fuel_tank": "75L",
+        "seats": 7,
+        "features": [
+            "Blind-spot monitoring with rear cross-traffic alert (optional on some trims): Provides additional awareness of your surroundings while changing lanes or reversing.",
+            "Head-up display (optional on higher trims): Projects essential driving information like speed and navigation onto the windshield, minimizing distractions.",
+            "Eight airbags and a rearview camera come standard for all trims."
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": "5330 mm",
+            "width": "1855 mm",
+            "height": "1815 mm"
+        }
+    },
+    {
+        "id": 28,
+        "model": "Volkswagen ID.4",
+        "category": "Hybrid and Ev",
+        "brand": "Volkswagen",
+        "description": "The Volkswagen ID.4 is a fully electric compact SUV offering a blend of performance, practicality, and spaciousness. It boasts a stylish design, a comfortable interior with ample cargo space, and a range of up to 291 miles (depending on battery pack). Choose from Rear-Wheel Drive (RWD) or All-Wheel Drive (AWD) configurations. The ID.4 is a compelling option for those seeking an electric SUV that caters to everyday driving needs and potential road trips.",
+        "img": [
+            "/images/Hybrid&Ev/ID 4 VW  EV4.jpg",
+            "/images/Hybrid&Ev/ID 4 VW  EV2.jpg",
+            "/images/Hybrid&Ev/ID 4 VW  EV3.jpg",
+            "/images/Hybrid&Ev/ID 4 VW  EV1.jpg",
+            "/images/Hybrid&Ev/ID 4 VW  EV.webp"
+        ],
+        "engine": [
+            "Electric"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "RWD",
+            "AWD"
+        ],
+        "payload": "450kg",
+        "seats": 5,
+        "features": [
+            "Available driver-assistance features like forward collision warning, automatic emergency braking, and lane departure warning.",
+            "Infotainment system with touchscreen display, Apple CarPlay, and Android Auto",
+            "Heated seats and steering wheel (optional on some trims)",
+            "Panoramic sunroof (optional)",
+            "Power liftgate (optional on some trims)"
+        ],
+        "disclaimers": [
+            "Price varies depending on configuration (check Volkswagen website for latest pricing)",
+            "Range based on EPA estimates and may vary depending on driving conditions and weather."
+        ],
+        "dimensions": {
+            "Length": 4584,
+            "Width": 1852,
+            "Height": 1616
+        }
+    },
+    {
+        "id": 29,
+        "model": "Tesla Model 3",
+        "category": "Hybrid and Ev",
+        "brand": "Tesla",
+        "description": "The Tesla Model 3 is a fully electric mid-size sedan offering impressive performance, range, and technology. With a minimalist interior design and focus on a large touchscreen for controls, it delivers a unique driving experience. Choose from Rear-Wheel Drive or All-Wheel Drive configurations, both boasting exceptional acceleration. With a range of up to 358 miles (depending on model), the Model 3 is suitable for most daily commutes and even longer road trips.",
+        "img": [
+            "/images/Hybrid&Ev/Tesla- EV1.jpg",
+            "/images/Hybrid&Ev/Tesla- EV.jpg",
+            "/images/Hybrid&Ev/Tesla- EV.jpeg",
+            "/images/Hybrid&Ev/Tesla- EV2.jpg",
+            "/images/Hybrid&Ev/Tesla- EV3.jpg",
+            "/images/Hybrid&Ev/Tesla- EV5.jpg"
+        ],
+        "engine": [
+            "Electric"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "RWD",
+            "AWD"
+        ],
+        "payload": "1500Kg",
+        "seats": 5,
+        "features": [
+            "Autopilot (advanced driver-assistance system with features like lane centering and adaptive cruise control)",
+            "15-inch touchscreen for climate control, navigation, entertainment, and vehicle settings",
+            "Panoramic glass roof (depending on model)",
+            "Heated seats (optional)",
+            "Wireless phone charging (optional)",
+            "12-speaker sound system"
+        ],
+        "disclaimers": [
+            "Price varies depending on configuration (check Tesla website for latest pricing)",
+            "Range based on EPA estimates and may vary depending on driving conditions and weather."
+        ],
+        "dimensions": {
+            "Length": 4694,
+            "Width": 1850,
+            "Height": 1435
+        }
+    },
+    {
+        "id": 30,
+        "model": "Toyota RAV4 ",
+        "category": "Hybrid and Ev",
+        "brand": "Toyota",
+        "description": "The Toyota RAV4 Hybrid strikes a balance between efficiency and capability, making it a popular choice for SUV drivers. It boasts a hybrid system that combines a gasoline engine with electric motors for impressive fuel economy (up to 41 mpg city and 38 mpg highway) without sacrificing power. Standard all-wheel drive provides confidence in various weather conditions. Inside, the RAV4 Hybrid offers a spacious and comfortable cabin with plenty of cargo space for everyday needs or outdoor adventures.",
+        "img": [
+            "/images/Hybrid&Ev/Toyota Rav4 hybrid3.jpg",
+            "/images/Hybrid&Ev/Toyota Rav4 hybrid2.jpg",
+            "/images/Hybrid&Ev/Toyota Rav4 hybrid1.jpg",
+            "/images/Hybrid&Ev/Toyota Rav4 hybrid.jpg"
+        ],
+        "engine": [
+            "Petrol"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "AWD"
+        ],
+        "payload": "1,587kg",
+        "fuel_tank": "55L",
+        "seats": 5,
+        "features": [
+            "Toyota Safety Sense 2.0 (includes features like automatic emergency braking, lane departure warning, adaptive cruise control, and more)",
+            "Eight airbags",
+            "Tire pressure monitoring system",
+            "Rearview camera"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": 5330,
+            "width": 1855,
+            "height": 1815
+        }
+    },
+    {
+        "id": 31,
+        "model": "Toyota Camry BS6",
+        "category": "Hybrid and Ev",
+        "brand": "Toyota",
+        "description": "The 2024 Toyota Camry Hybrid combines efficiency and performance with a hybrid system that reduces emissions and enhances fuel economy. It offers advanced safety features and a comfortable ride, making it a top choice for eco-conscious drivers.",
+        "img": [
+            "/images/Hybrid&Ev/camry2.jpg",
+            "/images/Hybrid&Ev/camry1.jpg",
+            "/images/Hybrid&Ev/camry3.jpg"
+        ],
+        "engine": [
+            "Petrol",
+            "Electric"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD"
+        ],
+        "payload": "925 kg",
+        "fuel_tank": "50L",
+        "seats": 5,
+        "features": [
+            "Toyota Safety Sense 2.5+",
+            "Eight airbags",
+            "Tire pressure monitoring system",
+            "Rearview camera",
+            "Automatic climate control",
+            "Android Auto and Apple CarPlay",
+            "Hybrid system indicator"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": 4885,
+            "width": 1840,
+            "height": 1455
+        },
+        "additional_informations": [
+            {
+                "name": "Fuel Economy",
+                "desc": "The 2024 Toyota Camry Hybrid achieves an estimated fuel economy of up to 52 mpg in the city and 53 mpg on the highway."
+            },
+            {
+                "name": "Infotainment System",
+                "desc": "Equipped with a 9-inch touchscreen, the Camry Hybrid supports Apple CarPlay, Android Auto, and Amazon Alexa."
+            },
+            {
+                "name": "Safety Features",
+                "desc": "Includes pre-collision system with pedestrian detection, lane departure alert with steering assist, and dynamic radar cruise control."
+            },
+            {
+                "name": "Interior Comfort",
+                "desc": "Features leather-trimmed seating, a power-adjustable driver’s seat, and dual-zone automatic climate control."
+            },
+            {
+                "name": "Warranty",
+                "desc": "Offers a 3-year/36,000-mile basic warranty and a 5-year/60,000-mile powertrain warranty."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "model": "MG 5",
+        "category": "Morris Garage",
+        "brand": "MG",
+        "description": "The MG 5 is a compact car with a history spanning over a decade. It's offered as a sedan in some markets, and a hatchback version might be available in the future. The first generation, launched in 2012, came with a 1.5-liter naturally-aspirated petrol engine in two power options paired with either a manual or automatic transmission. A newer generation debuted in August 2023, featuring a 1.5-liter engine with both naturally-aspirated and turbocharged options, along with CVT and DCT transmissions.",
+        "img": [
+            "/images/MG/mg5 2.jpg",
+            "/images/MG/mg5 3.jpg",
+            "/images/MG/mg5 4.jpg",
+            "/images/MG/mg5 5.jpg"
+        ],
+        "engine": [
+            "Petrol"
+        ],
+        "transmission": [
+            "Manual ",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "RWD",
+            "AWD"
+        ],
+        "payload": "442kg",
+        "fuel_tank": "45L",
+        "seats": 5,
+        "features": [
+            "The MG 5 likely features an infotainment system with a touchscreen display. The size and functionality of this system can vary depending on the trim level.",
+            "These features can improve safety and convenience, and their availability might depend on the trim level. Some potential ADAS features include:",
+            "Automatic emergency braking (AEB)",
+            "Lane departure warning (LDW)",
+            "Blind-spot monitoring (BSM)",
+            "Adaptive cruise control (ACC)"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": 4363,
+            "width": 1800,
+            "height": 1492
+        }
+    },
+    {
+        "id": 33,
+        "brand": "MG",
+        "model": "MG-HS",
+        "category": "Morris Garage",
+        "description": "The HS is the production model of the concept MG X-Motion. It debuted at the 2018 Beijing Auto Show.[5][6] Engine options of the MG HS include an inline four 1.5-litre turbo petrol engine producing 169 hp (171 PS; 126 kW), and an inline four 2.0-litre turbo petrol engine, producing 231 hp (234 PS; 172 kW).[3]",
+        "img": [
+            "/images/MG/mg hs 1.jpg",
+            "/images/MG/mg hs 2.jpg"
+        ],
+        "engine": [
+            "Turbo",
+            "Petrol"
+        ],
+        "transmission": [
+            "Manual ",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD",
+            "AWD"
+        ],
+        "payload": "1,775 kg",
+        "fuel_tank": "37L",
+        "seats": 5,
+        "features": [
+            "Bi-function LED headlights and a bold grille design at the front",
+            "New front and rear bumpers with revised dual exhaust outlets and LED taillights",
+            "18-inch diamond-cut wheels",
+            "Wide interior with plenty of legroom and headroom"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": 4574,
+            "width": 1876,
+            "height": 1664
+        }
+    },
+    {
+        "id": 34,
+        "brand": "MG",
+        "model": "MG RX8",
+        "category": "Morris Garage",
+        "description": "",
+        "img": [
+            "/images/MG/mg rx 8 3.webp",
+            "/images/MG/mg rx 8 4.jpg",
+            "/images/MG/mg rx 8 2.webp"
+        ],
+        "engine": [
+            "Petrol"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "RWD",
+            "AWD"
+        ],
+        "payload": "",
+        "fuel_tank": 70,
+        "seats": 7,
+        "features": [
+            "The RX8 features ADAS such as lane departure warning system, which is available on the LUX trim.",
+            "The RX8 comes equipped with a wide range of standard safety features, including front, side, and curtain airbags, front and rear sensors with rear view camera, active rollover protection, and a tyre."
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": 4923,
+            "width": 1930,
+            "height": 1810
+        }
+    },
+    {
+        "id": 35,
+        "brand": "MG",
+        "model": "MG Rx 5",
+        "category": "Morris Garage",
+        "description": "The MG RX5 is a compact crossover SUV manufactured by SAIC Motor under the Roewe brand. It is available in various variants, including petrol-powered, plug-in hybrid, and pure electric models. The facelift model is called the RX5 Plus, and a slightly larger second-generation model called the RX5 Max is sold alongside the RX5 Plus.",
+        "img": [
+            "/images/MG/mg rx5 4.jpg",
+            "/images/MG/mg rx5 3.webp",
+            "/images/MG/mg rx5 2.jpg",
+            "/images/MG/mg rx5 1.jpg"
+        ],
+        "engine": [
+            "Diesel"
+        ],
+        "transmission": [
+            "Manual ",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "payload": "kg",
+        "fuel_tank": 55,
+        "seats": 5,
+        "features": [
+            "Hill hold and hill descent control.",
+            "Cornering brake control.",
+            "Acoustic Hood.",
+            "4WD Rotary Mode Switch.",
+            "Moving object detection system."
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": 4554,
+            "width": 1855,
+            "height": 1719
+        }
+    },
+    {
+        "id": 36,
+        "brand": "MG",
+        "model": "Mg t60 pickup",
+        "category": "Morris Garage",
+        "description": "The MG T60 is a mid-size pickup truck manufactured by SAIC Motor under the Maxus brand. It is the first pick-up truck from SAIC built for the global market. The T60 is designed to be a reliable and effective partner in the light 1-tonne pick-up category, offering a combination of efficiency, hard work, and capability.",
+        "img": [
+            "/images/MG/mg t60 1.jpg",
+            "/images/MG/mg t60 4.jpg"
+        ],
+        "engine": [
+            "Diesel"
+        ],
+        "transmission": [
+            "Manual"
+        ],
+        "drivetrain": [
+            "2WD",
+            "4WD"
+        ],
+        "payload": "1,025 kg",
+        "fuel_tank": "75L",
+        "seats": 6,
+        "features": [
+            "Automatic Air Conditioning that circulates to the rear via dedicated vents",
+            "Sidestep for Load Security and Safe Access",
+            "Front and Side Airbags",
+            "Tyre Pressure Monitoring System"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": "5365 mm",
+            "width": "1900 mm",
+            "height": "1809 mm"
+        }
+    },
+    {
+        "id": 37,
+        "model": "Howo Dump Truck",
+        "category": "Trucks",
+        "brand": "Sinotruk",
+        "description": "Howo dump trucks are known for their durability, power, and efficiency. They are commonly used in construction and mining applications for hauling large loads of gravel, rock, and other materials.",
+        "engine": [
+            "Diesel"
+        ],
+        "img": [
+            "/images/Trucks/Howo1.webp",
+            "/images/Trucks/Howo2.jpg",
+            "/images/Trucks/Howo3.webp"
+        ],
+        "transmission": [
+            "10-spd manual"
+        ],
+        "drivetrain": [
+            "6x4, ",
+            "8x4"
+        ],
+        "payload": "20T to 50 T",
+        "fuel_tank": "300-400L",
+        "seats": "2 or 3",
+        "features": [
+            "Hydraulic dump mechanism",
+            "Air brakes",
+            "Heavy-duty suspension",
+            "Reinforced chassis frame",
+            "Depending on model: ABS, air conditioning, trip computer"
+        ],
+        "dimensions": {
+            "length": "Depends on model, typically around 7-10 meters",
+            "width": "Typically around 2.5 meters",
+            "height": "Depends on model and bed configuration, typically around 3.5-4.5 meters"
+        },
+        "additional_informations": [
+            {
+                "name": "Model Variations",
+                "desc": "Howo dump trucks come in a variety of configurations to suit different needs. Here are some examples:\n  * Howo A7: Lighter duty option with a payload capacity around 20-25 tons.\n  * Howo dump truck ZZ:** More powerful option with a payload capacity around 30-40 tons.\n  * Howo dump truck T7H:** Heavy duty option designed for extreme loads up to 50 tons."
+            },
+            {
+                "name": "Customizations",
+                "desc": "Howo dump trucks can be customized with various options such as different bed sizes, material types, engine configurations, and additional features like tire pressure monitoring systems."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "model": "Iveco Trucks",
+        "category": "Trucks",
+        "brand": "Iveco",
+        "description": "Iveco trucks are known for their durability, performance, and efficiency. They offer a wide range of models to suit various applications, from light-duty urban deliveries to heavy-duty off-road hauling.",
+        "engine": [
+            "Diesel",
+            "CNG"
+        ],
+        "img": [
+            "/images/Trucks/Iveco2.jpg",
+            "/images/Trucks/Iveco.jpeg",
+            "/images/Trucks/Iveco3.jpeg",
+            "/images/Trucks/Iveco.jpeg"
+        ],
+        "transmission": [
+            "Manual",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4x2, ",
+            "4x4, ",
+            "6x2, ",
+            "6x4, ",
+            "8x4"
+        ],
+        "payload": "3.5T to 40T +",
+        "fuel_tank": "150-400L",
+        "seats": "2 or 3",
+        "features": [
+            "Hydraulic brakes",
+            "Air suspension (available on some models)",
+            "Reinforced chassis frame",
+            "Driver assistance features (available on some models): ABS, traction control, lane departure warning",
+            "Advanced infotainment systems (available on some models)"
+        ],
+        "dimensions": {
+            "length": "Depends on model, typically from under 6 meters to over 16 meters",
+            "width": "Typically around 2.5 meters",
+            "height": "Depends on model and cab configuration, typically around 3-4 meters"
+        },
+        "additional_informations": [
+            {
+                "name": "Iveco Truck Models",
+                "desc": "Iveco offers a comprehensive lineup of trucks to cater to diverse needs. Here are some prominent categories:\n  * Iveco Daily: Light-duty trucks ideal for urban deliveries and light construction tasks.\n * Iveco Eurocargo: Medium-duty trucks for regional distribution, waste collection, and construction applications.\n  * Iveco Trakker: Heavy-duty trucks designed for off-road hauling, mining, and severe working conditions.\n "
+            },
+            {
+                "name": "Customizations",
+                "desc": "Iveco trucks can be customized with various options to meet specific requirements. These include:\n  * Different bed lengths and configurations\n  * Material options for the bed and chassis\n  * Engine and drivetrain configurations\n  * Additional features like cranes, winches, and specialized bodies"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "model": "MAN Trucks",
+        "category": "Trucks",
+        "brand": "MAN Truck & Bus",
+        "description": "MAN trucks are known for their reliability, performance, and innovative technologies. They offer a wide range of models for various applications, from urban delivery trucks to heavy-duty haulage vehicles.",
+        "engine": [
+            "Diesel"
+        ],
+        "img": [
+            "/images/Trucks/Man1.jpg",
+            "/images/Trucks/Man2.jpeg",
+            "/images/Trucks/Man3.jpeg",
+            "/images/Trucks/Man4.jpeg"
+        ],
+        "transmission": [
+            "Manual",
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4x2, ",
+            "6x2, ",
+            "6x4, ",
+            "8x4"
+        ],
+        "payload": "7.49T to 250T +",
+        "fuel_tank": "300-400L",
+        "seats": "2 0r 3",
+        "features": [
+            "Hydraulic brakes with advanced safety features (EBS, ESC)",
+            "Air suspension (available on some models)",
+            "Reinforced chassis frame",
+            "Driver assistance systems (available on some models): Lane departure warning, adaptive cruise control, emergency braking assist",
+            "Advanced infotainment systems (available on some models)"
+        ],
+        "dimensions": {
+            "length": "Depends on model, typically from under 7 meters to over 18 meters for tractor-trailers",
+            "width": "Typically around 2.5 meters",
+            "height": "Depends on model and cab configuration, typically around 3-4 meters"
+        },
+        "additional_informations": [
+            {
+                "name": "MAN Truck Models",
+                "desc": "MAN Truck & Bus offers a variety of trucks for different tasks. Here are some examples:\n  * MAN TGM: Light to medium-duty trucks for urban distribution, construction, and waste collection.\n MAN TGS: Medium to heavy-duty trucks for long-haul transportation, construction, and heavy-duty applications.\n * MAN TGX: Heavy-duty trucks designed for long-haul transportation with the highest payloads and towing capacities.\n "
+            },
+            {
+                "name": "Focus on Technology and Efficiency",
+                "desc": "MAN trucks are known for their focus on innovative technologies that enhance efficiency, safety, and driver comfort. They are continuously developing features like:\n  * Efficient engines that meet stringent emission standards\n  * Advanced driver assistance systems to reduce accidents\n  * Automated driving technologies for the future of transportation"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "model": "Scania Trucks",
+        "category": "Trucks",
+        "brand": "Scania",
+        "description": "Scania trucks are renowned for their durability, fuel efficiency, driver comfort, and safety features. They offer a comprehensive range of heavy-duty trucks for various applications, including long-haul transportation, construction, and special operations.",
+        "engine": [
+            "Diesel",
+            "Biogas"
+        ],
+        "img": [
+            "/images/Trucks/Scania1.jpg",
+            "/images/Trucks/Scania3.jpg",
+            "/images/Trucks/Scania2.jpg"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4x2, ",
+            "6x2, ",
+            "6x4, ",
+            "8x4"
+        ],
+        "payload": "32T to 120T +",
+        "fuel_tank": "300-900L",
+        "seats": 2,
+        "features": [
+            "Scania Opticruise gear shifting system for optimal fuel efficiency",
+            "Hydraulic brakes with advanced safety systems (ESP, EBS)",
+            "Air suspension for driver comfort and improved handling",
+            "Driver assistance systems: Lane departure warning, adaptive cruise control, collision warning",
+            "Spacious and ergonomic cabs designed for driver comfort and long journeys"
+        ],
+        "dimensions": {
+            "length": "Depends on model and configuration, typically from under 7 meters to over 18 meters for tractor-trailers",
+            "width": "Typically around 2.5 meters",
+            "height": "Depends on model and cab configuration, typically around 3.5-4 meters"
+        },
+        "additional_informations": [
+            {
+                "name": "Scania Truck Series",
+                "desc": "Scania offers a variety of truck series to cater to specific applications:\n  * Scania L-series: Urban trucks for distribution and waste collection.\n  * Scania P-series: Construction and regional distribution trucks.\n  * Scania G-series: Long-haul trucks with a focus on driver comfort and fuel efficiency.\n* Scania R-series: Long-haul trucks with a focus on power and performance.\n* Scania S-series: Premium long-haul trucks with the highest power ratings and luxurious cabs.\n"
+            },
+            {
+                "name": "Focus on Sustainability",
+                "desc": "Scania is committed to sustainable transportation solutions. They offer:\n  * Biogas-powered trucks that reduce CO2 emissions.\n  * Electric trucks for urban applications with zero emissions.\n  * Continuous development of fuel-efficient engines and technologies"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "model": "Toyota BZ 4",
+        "category": "Hybrid and Ev",
+        "brand": "Toyota",
+        "description": "",
+        "img": [
+            "/images/Hybrid&Ev/toyota bz4.jpg"
+        ],
+        "engine": [
+            "Electric"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD",
+            "AWD"
+        ],
+        "payload": " ",
+        "fuel_tank": "Electrice Motor",
+        "seats": 5,
+        "features": [
+            "Blind spot and lane departure warnings accident avoidance system",
+            "Lane keep assist",
+            "Rear cross traffic alert",
+            "Pre-collision safety system , Post-collision safety system",
+            "Front and rear head airbags"
+        ],
+        "disclaimers": [
+            "Price varies depending on variant (check official sources)",
+            "Fuel efficiency may vary based on driving conditions"
+        ],
+        "dimensions": {
+            "length": 4690,
+            "width": 1860,
+            "height": 1650
+        },
+        "additional_informations": [
+            {
+                "name": "Warranty",
+                "desc": "Details not yet confirmed, but Toyota typically offers competitive warranties on new vehicles."
+            },
+            {
+                "name": "Charging",
+                "desc": [
+                    "DC Fast Charging capable (up to 150 kW)",
+                    "CCS charging port standard",
+                    "AC Level 2 charging supported (charging time will depend on charger power)"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "model": "BYD Seagull",
+        "category": "Hybrid and Ev",
+        "brand": "BYD",
+        "description": "An affordable electric hatchback offering a range of up to 405 km and a spacious interior for everyday driving.",
+        "img": [
+            "/images/Hybrid&Ev/byd seagull 1.webp",
+            "/images/Hybrid&Ev/byd seagull.webp"
+        ],
+        "engine": [
+            "Electric Motor"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "FWD"
+        ],
+        "seats": 5,
+        "features": [
+            "Six airbags",
+            "Rear disc brakes",
+            "Electronic parking brake",
+            "Electronic stability programme",
+            "Big touchscreen system",
+            "Fully digital driver's display",
+            "Wireless phone charging"
+        ],
+        "disclaimers": [
+            "Price starts from around Rs 10 lakh (ex-showroom, India).",
+            "Specifications may vary depending on market."
+        ],
+        "dimensions": {
+            "length": 3780,
+            "width": 1715,
+            "height": 1540
+        },
+        "additional_informations": [
+            {
+                "name": "Launch",
+                "desc": "Expected in 2024 (India)"
+            },
+            {
+                "name": "Range in Dubai",
+                "desc": "Due to Dubai's hotter climate, the BYD Seagull's electric range may be slightly reduced. Here's an estimated range based on a 10% reduction:  405 km (CLTC) * 0.9 = 364.5 km (approx.)"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "model": "MG Mulan",
+        "category": "Hybrid and Ev",
+        "brand": "MG",
+        "description": "A sporty electric sedan offering a balance of performance, range, and technology for a dynamic driving experience.",
+        "img": [
+            "/images/Hybrid&Ev/mg mulan 1.jpeg",
+            "/images/Hybrid&Ev/MG-Mulan.jpg"
+        ],
+        "engine": [
+            "Electric Motor"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "RWD or AWD"
+        ],
+        "seats": 5,
+        "features": [
+            "MG Pilot driver assistance system",
+            "Panoramic sunroof",
+            "Large touchscreen infotainment system",
+            "Sporty design elements",
+            "Heated and ventilated seats (potential, depending on trim level)"
+        ],
+        "disclaimers": [
+            "MG Mulan is not yet available in Dubai. Release date to be confirmed.",
+            "Specifications may vary depending on market and trim level.",
+            "Final features and range may differ. Refer to official sources for the latest information."
+        ],
+        "dimensions": {
+            "length": 4287,
+            "width": 1836,
+            "height": 1504
+        },
+        "additional_informations": [
+            {
+                "name": "MG in Dubai",
+                "desc": "Check with authorized MG dealers in Dubai for confirmed availability and specifications."
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "model": "Land Cruiser LC 78 Ambulance",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "A powerful and reliable off-road SUV built for conquering tough terrain. Offers exceptional capability and durability for adventure seekers.",
+        "img": [
+            "/images/commercial/land cruise LC 78 1.jpg",
+            "/images/commercial/land cruise LC 78 2.jpg",
+            "/images/commercial/land cruise LC 78 3.jpg"
+        ],
+        "engine": [
+            "Diesel"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "seats": 7,
+        "features": [
+            "Heavy-duty off-road suspension",
+            "Durable construction for demanding environments",
+            "Winch compatibility (on some models)",
+            "Advanced traction control systems",
+            "Functional and comfortable interior"
+        ],
+        "disclaimers": [
+            "Specifications may vary depending on market and trim level.",
+            "Final features and performance may differ. Refer to official Toyota sources for the latest information."
+        ],
+        "dimensions": {
+            "length": 4840,
+            "width": 1855,
+            "height": 1940
+        },
+        "additional_informations": [
+            {
+                "name": "Authorized Toyota Dealers",
+                "desc": "Visit your nearest authorized Toyota dealer for detailed information on availability, specifications, and test drives."
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "model": "Land Cruiser B4 Armored Vehicle",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "A highly reliable and versatile armored SUV offering exceptional protection against ballistic threats. Ideal for security professionals, government agencies, and individuals requiring a secure transportation solution.",
+        "img": [
+            "/images/commercial/land cruiser b4 1.jpg",
+            "/images/commercial/land cruiser b4 2.jpg"
+        ],
+        "engine": [
+            "V8"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "seats": 5,
+        "features": [
+            "B4 level ballistic protection ",
+            "Reinforced body and chassis",
+            "Bulletproof glass",
+            "Run-flat tires (optional)",
+            "Upgraded suspension for increased weight capacity",
+            "Additional security features (may vary)"
+        ],
+        "disclaimers": [
+            "Armored vehicle specifications are confidential and may vary depending on customization.",
+            "Consult with authorized armored vehicle dealers for detailed information on protection levels, features, and legal requirements.",
+            "Final features and performance may differ. Refer to authorized Toyota armored vehicle providers for the latest information."
+        ],
+        "dimensions": {
+            "length": "Similar to standard Land Cruiser",
+            "width": "Similar to standard Land Cruiser",
+            "height": "Similar to standard Land Cruiser"
+        },
+        "additional_informations": [
+            {
+                "name": "Authorized Armored Vehicle Dealers",
+                "desc": "Contact authorized Toyota armored vehicle dealers for inquiries on customization options, pricing, and legal considerations."
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "model": "Land Cruiser B6 Armored Vehicle",
+        "category": "Commercial Vehicle",
+        "brand": "Toyota",
+        "description": "A formidable armored SUV offering enhanced security with B6 level ballistic protection. Ideal for high-risk environments, cash-in-transit operations, and VIP transportation.",
+        "img": [
+            "/images/commercial/land cruiser b6 1.jpg",
+            "/images/commercial/land cruiser b6 2.jpg",
+            "/images/commercial/land cruiser b6 3.jpg"
+        ],
+        "engine": [
+            "V8"
+        ],
+        "transmission": [
+            "Automatic"
+        ],
+        "drivetrain": [
+            "4WD"
+        ],
+        "seats": 5,
+        "features": [
+            "B6 level ballistic protection (stops specific caliber rounds, check for details)",
+            "Reinforced body and chassis with high-strength steel",
+            "Bulletproof glass",
+            "Run-flat tires (optional)",
+            "Upgraded suspension for increased weight capacity",
+            "Emergency exit system (optional)",
+            "Additional security features (may vary, e.g., intercom, siren)"
+        ],
+        "disclaimers": [
+            "Armored vehicle specifications are confidential and may vary depending on customization.",
+            "Consult with authorized armored vehicle dealers for detailed information on protection levels, features, and legal requirements.",
+            "Final features and performance may differ. Refer to authorized Toyota armored vehicle providers for the latest information."
+        ],
+        "dimensions": {
+            "length": " Similar to standard Land Cruiser",
+            "width": " Similar to standard Land Cruiser",
+            "height": " Similar to standard Land Cruiser"
+        },
+        "additional_informations": [
+            {
+                "name": "Authorized Armored Vehicle Dealers",
+                "desc": "Contact authorized Toyota armored vehicle dealers for inquiries on customization options, pricing, and legal considerations."
+            }
+        ]
+    }
+]

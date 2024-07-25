@@ -1,0 +1,220 @@
+.item {
+    margin: 25px 0;
+}
+
+
+.item .item_img {
+    /* background-color: var(--bg2-color); */
+    border-radius: 30px;
+    overflow: hidden;
+    
+}
+
+.item .itemBG {
+    background-color: var(--text-color);
+    border-radius: 30px;
+    overflow: hidden;
+    margin-bottom: 30px;
+    height: 25vw;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.item .itemBG img {
+    aspect-ratio: 4/4 !important;
+    object-fit: contain;
+}
+
+
+
+.item .item_img img {
+    aspect-ratio: 4/4;
+}
+
+.content {
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: -45px;
+    z-index: 999;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    height: 15vw;
+    flex-direction: column;
+    background-color: var(--bg2-color);
+    padding: 35px 30px;
+    border-radius: 20px;
+    transition: all .5s ease;
+    cursor: pointer;
+}
+
+.content .badge {
+    position: absolute;
+    top: -22px;
+    left: 10%;
+    font-size: .9vw;
+    padding: .8vw 1.3vw;
+    border-radius: 10px;
+    background-color: var(--accent-color);
+}
+
+.content .badgeBrand{
+    position: absolute;
+    top: -22px;
+    left: 10%;
+    font-size: 1.2vw;
+    padding: .8vw 1.3vw;
+    border-radius: 10px;
+    background-color: var(--accent-color);
+}
+
+.content:hover {
+    margin-top: -7vw;
+}
+
+.content .con {
+    position: relative;
+    transition: all .5s ease;
+}
+
+.item .content:hover {
+    height: 100%;
+    transition: all .5s ease;
+}
+
+.item .content:hover .con {
+    padding-bottom: 5vw;
+    transition: all .5s ease;
+}
+
+.item.accesssoris .content:hover {
+    margin-top: -45px !important;
+}
+
+.item.item.accesssoris .content:hover {
+    height: 15vw;
+    transition: all .5s ease;
+}
+
+.item.accesssoris .content:hover .con {
+    padding-bottom: 0px !important;
+}
+
+.content:hover .icon {
+    visibility: visible;
+}
+
+.content .icon {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    visibility: hidden;
+    transition: all .4s ease;
+    width: 4.5vw;
+    height: 4.5vw;
+    border: 1px solid var(--accent-color);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.35vw;
+    color: var(--accent-color);
+}
+
+.content .icon:hover {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+.content .grades {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 1.1vw;
+    font-weight: 300;
+}
+
+.content .grades span {
+    margin-right: 8px;
+}
+
+.content h3 {
+    font-size: 1.8vw;
+    margin: 10px 0;
+    line-height: 140%;
+    letter-spacing: .5px;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+@media (max-width: 1199px) {
+    .content {
+        height: 190px;
+    }
+
+    .content:hover {
+        margin-top: -100px;
+    }
+
+    .content:hover .con {
+        padding-bottom: 70px;
+    }
+
+    .content .grades {
+        gap: 9px;
+        font-size: .9rem;
+    }
+
+    .content h3 {
+        font-size: 1.55rem;
+    }
+
+    .content .icon {
+        width: 60px;
+        height: 60px;
+        font-size: 1.2rem;
+    }
+
+
+    .content .badge {
+        font-size: .8rem;
+        padding: 10px 20px;
+    }
+    .content .badgeBrand{
+        font-size: 1.1rem;
+    }
+
+    .item .itemBG {
+        background-color: var(--text-color);
+        border-radius: 30px;
+        overflow: hidden;
+        margin-bottom: 30px;
+        height: 350px;
+    }
+
+    .item .itemBG img {
+        object-fit: contain;
+    }
+
+    .item.item.accesssoris .content:hover {
+        height: 100%;
+        transition: all .5s ease;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .content {
+        height: 100%;
+    }
+    .item .itemBG {
+        height: 100%;
+    }
+    .item .itemBG img{
+        aspect-ratio: 3/2;
+        object-fit: contain;
+    }
+}

@@ -1,0 +1,53 @@
+[
+    {
+        "id": 3,
+        "name": "Mineral Engine Oils",
+        "category": "Lubricants",
+        "grades": [
+            "10W40,",
+            "15W40,",
+            "20W50 (SL/CF, SN/CF)"
+        ],
+        "description": "Formulated for older and less demanding engines. Offers reliable lubrication and protection. Cost-effective solution for various engines.",
+        "benefits": [
+            "Dependable Lubrication: Consistent performance and protection.",
+            "Engine Protection: Protects against wear and corrosion.",
+            "Cost-Effective: An economical choice for routine maintenance."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Turbo Diesel Engine Oils",
+        "category": "Lubricants",
+        "grades": [
+            "15W40,",
+            "20W50 (CH-4/SL, CI-4/SL, CJ-4/SL)"
+        ],
+        "description": "Specifically formulated for turbocharged diesel engines. Provides robust performance and protection under high stress.",
+        "benefits": [
+            "Soot Handling: Advanced formula manages soot, reducing engine deposits.",
+            "Wear Protection: Enhanced protection for critical engine parts.",
+            "Oxidation Stability: Resists oil thickening and degradation.",
+            "Engine Longevity: Prolongs engine life by maintaining performance under heavy loads."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "High Performance Greases",
+        "category": "Lubricants",
+        "grades": [
+            "Lithium MP2/MP3,",
+            "EP2/EP3,",
+            "Calcium MP2/MP3,",
+            "Moly Grease,",
+            "Lithium Complex"
+        ],
+        "description": "Suitable for various industrial and automotive applications. Provides reliable lubrication and protection in demanding environments.",
+        "benefits": [
+            "Load-Carrying Capacity: Handles heavy loads with ease.",
+            "Water Resistance: Excellent resistance to water washout, ensuring long-lasting protection.",
+            "Mechanical Stability: Superior mechanical stability in high-shear conditions.",
+            "Temperature Range: Operates effectively across a wide temperature range."
+        ]
+    }
+]

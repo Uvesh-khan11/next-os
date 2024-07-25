@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Audi",
+    "url": "/images/logos/logo-audi.png"
+  },
+  { 
+    "name": "Lexus",
+    "url": "/images/logos/logo-lexus.png"
+  },
+  { 
+    "name": "Mercedez Benz",
+    "url": "/images/logos/logo-mercedez.png"
+  },
+  { 
+    "name": "GAC",
+    "url": "/images/logos/GAC.png"
+  },
+  { 
+    "name": "Howo",
+    "url": "/images/logos/howo.png"
+  },
+  { 
+    "name": "Iveco",
+    "url": "/images/logos/Iveco.png"
+  },
+  { 
+    "name": "MG",
+    "url": "/images/logos/MG.png"
+  },
+  { 
+    "name": "Toyota",
+    "url": "/images/logos/toyota.png"
+  },
+  { 
+    "name": "Volkswgen",
+    "url": "/images/logos/vw.png"
+  }
+
+]

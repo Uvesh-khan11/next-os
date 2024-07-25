@@ -1,0 +1,1324 @@
+[
+    {
+        "id": 1,
+        "category": "Interior",
+        "name": "down plastic floor plastic land cruiser",
+        "img": [
+            "/images/Interior/floor2.png",
+            "/images/Interior/floor1.png",
+            "/images/Interior/floor5.png",
+            "/images/Interior/floor6.png",
+            "/images/Interior/floor7.png"
+        ],
+        "specifications": [
+            {
+                "name": "pvc",
+                "desc": "A popular and affordable option, PVC floor mats are durable, waterproof, and easy to clean. However, they can become stiff in cold weather and may crack over time."
+            },
+            {
+                "name": "tpe",
+                "desc": "A more flexible type of plastic, TPE floor mats are known for their comfort and all-weather performance. They are also easier to clean than PVC mats and less likely to crack."
+            },
+            {
+                "name": "hdpe",
+                "desc": "A rigid and durable plastic, HDPE is often used in heavy-duty floor mats. It is resistant to most chemicals and stains but may not be as comfortable as other options."
+            }
+        ],
+        "additional": [
+            {
+                "name": "size and fit",
+                "desc": "Floor mats should fit the contours of your Land Cruiser's footwell precisely to prevent dirt and moisture from accumulating underneath. Many aftermarket manufacturers offer floor mats specifically designed for different Land Cruiser models and years."
+            },
+            {
+                "name": "cleats or nibs",
+                "desc": "Cleats or nibs on the underside of the floor mat help to grip the carpet and prevent the mats from slipping."
+            },
+            {
+                "name": "lip around the edge",
+                "desc": "A raised lip around the edge of the floor mat can help to trap dirt, mud, and water."
+            },
+            {
+                "name": "color",
+                "desc": "Floor mats come in a variety of colors to complement the interior of your Land Cruiser."
+            },
+            {
+                "name": "ease of cleaning",
+                "desc": "Choose floor mats that are easy to clean with soap and water."
+            },
+            {
+                "name": "warranty",
+                "desc": "Some floor mats come with a warranty against defects in materials or workmanship."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Interior",
+        "name": "dvr system 4 way camera land cruiser",
+        "img": [
+            "/images/Interior/dvr4waycam5.jpg",
+            "/images/Interior/dvr4waycam8.jpg",
+            "/images/Interior/dvr4waycam7.jpg",
+            "/images/Interior/dvr4waycam4.jpg",
+            "/images/Interior/dvr4waycam2.jpg"
+        ],
+        "specifications": [
+            {
+                "name": "front camera",
+                "desc": "A front camera provides a view of the road ahead."
+            },
+            {
+                "name": "rear camera",
+                "desc": "A rear camera helps with reversing and parking."
+            },
+            {
+                "name": "side cameras",
+                "desc": "Two side cameras (usually blind-spot cameras) provide additional visibility."
+            },
+            {
+                "name": "video resolution",
+                "desc": "Higher resolution cameras will provide clearer and sharper images. Common resolutions include 720p (high definition) and 1080p (full high definition)."
+            },
+            {
+                "name": "night vision",
+                "desc": "Night vision is essential for capturing clear footage in low-light conditions."
+            },
+            {
+                "name": "field of view",
+                "desc": "The field of view (FOV) refers to the area that the camera can see. A wider FOV is beneficial for capturing more surroundings, especially for blind-spot cameras."
+            }
+        ],
+        "additional": [
+            {
+                "name": "continuous recording",
+                "desc": "The DVR records continuously, ensuring all footage is captured."
+            },
+            {
+                "name": "loop recording",
+                "desc": "Overwrites older footage when storage is full, ensuring continuous recording."
+            },
+            {
+                "name": "motion detection recording",
+                "desc": "Records only when motion is detected to save storage space."
+            },
+            {
+                "name": "parking mode recording",
+                "desc": "Records footage when the vehicle is parked and detects movement or impact."
+            },
+            {
+                "name": "storage capacity",
+                "desc": "The DVR's storage capacity will determine how much footage can be recorded. Consider the video resolution and desired recording length when choosing storage capacity."
+            },
+            {
+                "name": "display",
+                "desc": "Some DVR systems come with a dedicated display screen, while others can be connected to your Land Cruiser's existing display (if compatible)."
+            },
+            {
+                "name": "waterproof cameras",
+                "desc": "Ensure durability in various weather conditions."
+            },
+            {
+                "name": "wireless connectivity",
+                "desc": "Allows for easier installation and remote viewing."
+            },
+            {
+                "name": "mobile app support",
+                "desc": "View footage remotely via a mobile app."
+            },
+            {
+                "name": "gps tracking",
+                "desc": "Records location data with the footage."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Interior",
+        "name": "full wood land cruiser",
+        "img": [
+            "/images/Interior/fullwood1.jpeg",
+            "/images/Interior/fullwood2.jpeg",
+            "/images/Interior/fullwood3.jpeg",
+            "/images/Interior/fullwood4.jpeg",
+            "/images/Interior/fullwood5.jpeg",
+            "/images/Interior/fullwood6.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "wood type",
+                "desc": "The type of wood used will depend on the desired look and the intended use of the vehicle. Common choices include mahogany, teak, and ash."
+            },
+            {
+                "name": "wood frame",
+                "desc": "The wood frame would need to be very strong and rigid to support the weight of the drivetrain and passengers."
+            },
+            {
+                "name": "body panels",
+                "desc": "The body panels would be made from thin sheets of wood that are laminated together for strength."
+            },
+            {
+                "name": "sealing and waterproofing",
+                "desc": "The wood would need to be treated with a sealant to protect it from moisture."
+            },
+            {
+                "name": "chassis",
+                "desc": "The chassis would likely be made from steel, as wood wouldn't be strong enough to handle the stresses of off-road driving."
+            },
+            {
+                "name": "drivetrain",
+                "desc": "The drivetrain could be from a stock Land Cruiser or a custom-built unit."
+            },
+            {
+                "name": "weight",
+                "desc": "A wooden Land Cruiser would be significantly heavier than a stock Land Cruiser, which could affect performance and fuel efficiency."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Interior",
+        "name": "change to vip car with massage chair and memory",
+        "img": [
+            "/images/Interior/vipcarmassagechair3.jpeg",
+            "/images/Interior/vipcarmassagechair4.jpeg",
+            "/images/Interior/vipcarmassagechair5.jpeg",
+            "/images/Interior/vipcarmassagechair6.jpeg",
+            "/images/Interior/vipcarmassagechair8.jpeg",
+            "/images/Interior/vipcarmassagechair9.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "massage chairs",
+                "desc": "Replacing standard seats with massage chairs will require custom installation to ensure they fit the contours of the Land Cruiser's cabin and integrate with the vehicle's electrical system for power."
+            },
+            {
+                "name": "memory seats",
+                "desc": "Adding memory seats involves installing new seats with memory functions or modifying existing seats to incorporate this feature. Memory seats use electric motors to adjust the seat position and store preferences for multiple drivers."
+            },
+            {
+                "name": "partitions",
+                "desc": "VIP conversions often incorporate partitions between the driver's cabin and the passenger compartment for increased privacy. These partitions can be retractable or fixed."
+            },
+            {
+                "name": "upholstery and trims",
+                "desc": "High-quality leather upholstery and premium trim materials are common features in VIP car interiors."
+            },
+            {
+                "name": "entertainment system",
+                "desc": "Upgraded sound systems, screens for watching movies, and additional features like ambient lighting can further enhance the VIP experience."
+            },
+            {
+                "name": "climate control",
+                "desc": "Multi-zone climate control allows individual passengers to adjust the temperature in their seating area."
+            }
+        ],
+        "additional": [
+            {
+                "name": "safety",
+                "desc": "Ensure any modifications comply with safety regulations and don't compromise the Land Cruiser's structural integrity."
+            },
+            {
+                "name": "electrical system",
+                "desc": "The electrical system may need to be upgraded to handle the additional power demands of massage chairs, seat memory functions, and other amenities."
+            },
+            {
+                "name": "space constraints",
+                "desc": "Carefully consider how these additions will impact passenger and cargo space within the Land Cruiser."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Interior",
+        "name": "wireless charger land cruiser",
+        "img": [
+            "/images/Interior/wirelesscharger1.jpeg",
+            "/images/Interior/wirelesscharger2.jpeg",
+            "/images/Interior/wirelesscharger3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "factory-installed options",
+                "desc": "Not all Land Cruiser models come equipped with a factory-installed wireless charger. It depends on the specific year, model, and trim level of your Land Cruiser. If your Land Cruiser does have a factory-installed wireless charger, it will likely be a Qi-certified charger, compatible with most modern smartphones that support wireless charging. The charger's location and specifications (like charging speed) will vary depending on the model. Consult your Land Cruiser's owner's manual for details."
+            },
+            {
+                "name": "aftermarket wireless chargers",
+                "desc": "These include tray chargers that sit on the center console or dashboard, vent mount chargers that clip onto the air vent, and cupholder chargers that fit into your Land Cruiser's cupholder and provide a stable platform for charging."
+            }
+        ],
+        "additional": [
+            {
+                "name": "compatibility",
+                "desc": "Ensure the charger is Qi-certified and compatible with your smartphone's wireless charging standard."
+            },
+            {
+                "name": "power output",
+                "desc": "Higher wattage chargers will provide faster charging speeds."
+            },
+            {
+                "name": "mounting options",
+                "desc": "Choose a charger that mounts securely in your Land Cruiser and provides easy access to your phone."
+            },
+            {
+                "name": "safety features",
+                "desc": "Look for chargers with built-in safety features like over-temperature protection and foreign object detection."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Interior",
+        "name": "change interior to black",
+        "img": [
+            "/images/Interior/colorblack1.jpeg",
+            "/images/Interior/colorblack2.jpeg",
+            "/images/Interior/colorblack3.jpeg",
+            "/images/Interior/colorblack4.jpeg",
+            "/images/Interior/colorblack5.jpeg",
+            "/images/Interior/colorblack6.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "seats",
+                "desc": "replacing standard seats with black seat covers made from breathable materials like leather or imitation leather for comfort and luxury. choose high-quality, custom-fit covers for a professional look."
+            },
+            {
+                "name": "door panels & dashboard",
+                "desc": "options include painting plastic or vinyl panels black using a specially formulated interior paint kit or applying black vinyl wraps for durability and easy cleaning. replacement panels may be available but can be expensive."
+            }
+        ],
+        "additional": [
+            {
+                "name": "color matching",
+                "desc": "ensure chosen black shade complements existing trims and accents. consider soft black for a luxurious feel or charcoal black for a sportier look."
+            },
+            {
+                "name": "durability",
+                "desc": "choose materials that withstand wear and tear, especially for high-traffic areas like seats."
+            },
+            {
+                "name": "cleaning and maintenance",
+                "desc": "opt for materials that are easy to clean and maintain, as black interiors tend to show dust and dirt more easily."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Interior",
+        "name": "roof dvd player installation",
+        "img": [
+            "/images/Interior/roofdvd1.png",
+            "/images/Interior/roofdvd2.png",
+            "/images/Interior/roofdvd3.png",
+            "/images/Interior/roofdvd4.png"
+        ],
+        "specifications": [
+            {
+                "name": "screen size",
+                "desc": "typically range from 8 to 15 inches"
+            },
+            {
+                "name": "resolution",
+                "desc": "most commonly offer resolutions between 480p and 1080p"
+            },
+            {
+                "name": "compatibility",
+                "desc": "varies depending on the model and year of your Land Cruiser"
+            },
+            {
+                "name": "power source",
+                "desc": "connects to the vehicle's 12V power system"
+            }
+        ],
+        "additional": [
+            {
+                "name": "installation",
+                "desc": "roof DVD players can be professionally installed or DIYed, though professional installation is recommended to ensure proper function and avoid damaging your vehicle's interior."
+            },
+            {
+                "name": "features",
+                "desc": "some roof DVD players offer additional features such as multiple screens, HDMI inputs, and gaming capabilities."
+            },
+            {
+                "name": "compatibility",
+                "desc": "not all roof DVD players are compatible with all Land Cruiser models or trim levels. it is important to consult your Land Cruiser's owner's manual or a qualified technician to ensure compatibility before purchasing a roof DVD player."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Interior",
+        "name": "install power seats",
+        "img": [
+            "/images/Interior/POWER SEAT DRIVER1.jpeg",
+            "/images/Interior/POWER SEAT DRIVER2.jpeg",
+            "/images/Interior/POWER SEAT DRIVER3.jpeg",
+            "/images/Interior/POWER SEAT DRIVER4.jpeg",
+            "/images/Interior/POWER SEAT DRIVER5.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "factory-installed options",
+                "desc": "common in higher trim levels, may include features like power lumbar support and memory settings."
+            }
+        ],
+        "additional": [
+            {
+                "name": "limited availability",
+                "desc": "complex and expensive to install. finding compatible aftermarket options is challenging."
+            },
+            {
+                "name": "manual adjustment",
+                "desc": "many land cruiser models come with manually adjustable seats."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Interior",
+        "name": "original air compressor",
+        "img": [
+            "/images/Interior/AIR COMPRESSOR1.png",
+            "/images/Interior/AIR COMPRESSOR2.png",
+            "/images/Interior/AIR COMPRESSOR3.png",
+            "/images/Interior/AIR COMPRESSOR4.jpeg",
+            "/images/Interior/AIR COMPRESSOR5.png"
+        ],
+        "specifications": [
+            {
+                "name": "function",
+                "desc": "primary function is to inflate vehicle tires, particularly useful for off-roading."
+            },
+            {
+                "name": "location",
+                "desc": "typically located in engine bay and driven by engine's belt."
+            }
+        ],
+        "additional": [
+            {
+                "name": "Pressure Capacity",
+                "desc": " This information is crucial, but unfortunately not universally available. Knowing the pressure rating (PSI) helps determine if the compressor can inflate your tires to the recommended level."
+            },
+            {
+                "name": "duty cycle",
+                "desc": "amount of time compressor can run continuously."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Interior",
+        "name": "original headrest dvd",
+        "img": [
+            "/images/Interior/HEADREST DVD1.jpeg",
+            "/images/Interior/HEADREST DVD2.jpeg",
+            "/images/Interior/HEADREST DVD4.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "factory availability",
+                "desc": "not typically offered as factory-installed option."
+            }
+        ],
+        "additional": [
+            {
+                "name": "compatibility",
+                "desc": "ensure compatibility with land cruiser's headrests."
+            },
+            {
+                "name": "portable dvd player",
+                "desc": "affordable and versatile option."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Interior",
+        "name": "digital speed meters",
+        "img": [
+            "/images/Interior/DIGITAL SPEED METERS2.jpeg",
+            "/images/Interior/DIGITAL SPEED METERS3.jpeg",
+            "/images/Interior/DIGITAL SPEED METERS4.jpeg",
+            "/images/Interior/DIGITAL SPEED METERS5.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "mid",
+                "desc": "multi-information display located within instrument cluster, displays digital speedometer readout and other vehicle information."
+            }
+        ],
+        "additional": [
+            {
+                "name": "hud",
+                "desc": "less common head-up display projects essential information onto windshield."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Interior",
+        "name": "leather mix quality",
+        "img": [
+            "/images/Interior/LEATHER MIX QUALITY1.jpeg",
+            "/images/Interior/LEATHER MIX QUALITY2.jpeg",
+            "/images/Interior/LEATHER MIX QUALITY3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "material composition",
+                "desc": "higher percentage of genuine leather indicates better quality. full-grain leather is premium, top-grain is also high quality."
+            }
+        ],
+        "additonal": [
+            {
+                "name": "seating feel",
+                "desc": "should be soft, supple, and comfortable."
+            },
+            {
+                "name": "color consistency",
+                "desc": "leather should have consistent color throughout."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Interior",
+        "name": "leather high quality",
+        "img": [
+            "/images/Interior/LEATHER HIGH QUALITY2.jpeg",
+            "/images/Interior/LEATHER HIGH QUALITY3.jpeg",
+            "/images/Interior/LEATHER HIGH QUALITY4.jpeg",
+            "/images/Interior/LEATHER HIGH QUALITY6.jpeg",
+            "/images/Interior/LEATHER HIGH QUALITY7.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "material",
+                "desc": "full-grain leather or top-grain leather recommended. preferably 100% genuine leather for seating surfaces."
+            }
+        ],
+        "additional": [
+            {
+                "name": "seating feel",
+                "desc": "should be soft, supple, and conforming."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Electronic",
+        "name": "original headrest dvd",
+        "img": [
+            "/images/Electronic/Headrest DVD 2.webp",
+            "/images/Electronic/Headrest DVD 3.jpg",
+            "/images/Electronic/Headrest DVD 4.jpeg",
+            "/images/Electronic/Headrest DVD 5.jpg",
+            "/images/Electronic/Headrest DVD 6.jpg"
+        ],
+        "specifications": [
+            {
+                "name": "factory availability",
+                "desc": "not typically offered as factory-installed option."
+            }
+        ],
+        "additional": [
+            {
+                "name": "reasons",
+                "desc": "Luxury-focused vehicles like the 2020 Toyota Land Cruiser generally do not come with factory-installed rear-seat entertainment systems such as headrest DVD players."
+            },
+            {
+                "name": "aftermarket option",
+                "desc": "Headrest DVD players are typically aftermarket add-ons rather than factory-installed features in vehicles like the Land Cruiser."
+            },
+            {
+                "name": "optional package",
+                "desc": "While very unlikely, some dealerships may have offered third-party headrest DVD systems as part of optional packages for the 2020 Land Cruiser. Checking with the specific dealership or previous owner is necessary to confirm."
+            },
+            {
+                "name": "aftermarket installation",
+                "desc": "It's more probable that a previous owner had a headrest DVD system installed after purchasing the 2020 Land Cruiser."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Electronic",
+        "name": "10-inch DVD Android System for Land Cruiser",
+        "img": [
+            "/images/Electronic/DVD ANDROID SYSTEM LAND CRUISER 10 INCH 3.jpeg",
+            "/images/Electronic/DVD ANDROID SYSTEM LAND CRUISER 10 INCH 4.avif"
+        ],
+        "specifications": [
+            {
+                "name": "display",
+                "desc": "10 inches diagonally Ranges from basic (like 480x272) to high definition (like 1080p) depending on the model"
+            },
+            {
+                "name": "operating system",
+                "desc": "Varies from Android 9 to the latest version (Android 13 as of May 2024) Dual-core, quad-core, or even octa-core processors are common 2GB to 6GB of RAM is common"
+            },
+            {
+                "name": "features",
+                "desc": "Smartphone Mirroring, GPS Navigation, audio (FM/AM), DVD Playback, Bluetooth, USB Ports, Steering Wheel Controls (requires compatible adapter)"
+            }
+        ],
+        "additional": [
+            {
+                "name": "compatibility",
+                "desc": "Ensure compatibility with the year and model of your Land Cruiser. Installation might require modifications to the vehicle's dashboard."
+            },
+            {
+                "name": "brand reputation",
+                "desc": "Research the brand of the Android system to understand their reputation for quality and customer support."
+            },
+            {
+                "name": "installation",
+                "desc": "It's highly recommended to have the system installed by a professional car audio installer to ensure proper functionality and avoid damaging your vehicle's electrical system."
+            },
+            {
+                "name": "warranty",
+                "desc": "Consider the warranty offered on the Android system and the installation labor."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Electronic",
+        "name": "headrest dvd player",
+        "img": [
+            "/images/Electronic/HEADREST DVD LAND CRUISER 2020 MODEL 1.jpeg",
+            "/images/Electronic/HEADREST DVD LAND CRUISER 2020 MODEL 2.avif",
+            "/images/Electronic/HEADREST DVD LAND CRUISER 2020 MODEL 4.jpg",
+            "/images/Electronic/HEADREST DVD LAND CRUISER 2020 MODEL 5.jpg",
+            "/images/Electronic/HEADREST DVD LAND CRUISER 2020 MODEL3.webp"
+        ],
+        "specifications": [
+            {
+                "name": "display",
+                "desc": "Ranges from around 7 inches to 10 inches diagonally. Varies from basic resolutions (like 480x272) to higher definition (like 1080p) depending on the model Some models have touchscreens for easier navigation and control, while others rely on physical buttons"
+            },
+            {
+                "name": "playback options",
+                "desc": [
+                    "Disc Formats: Most models support playback of DVD discs, and some might also play CDs or even Blu-rays (higher-end models)",
+                    "USB Compatibility: Many headrest DVD players have USB ports for playing movies or music stored on flash drives",
+                    "SD Card Slot: Some models might offer SD card slots for additional playback options"
+                ]
+            },
+            {
+                "name": "additional features",
+                "desc": [
+                    "Wireless Headphones: Often come with wireless headphones for individual viewing without disturbing other passengers",
+                    "Remote Control: May include a remote control for easier operation from any seat",
+                    "Built-in Games: Some models have built-in games for added entertainment options",
+                    "Headrest Mounting: The way the DVD player attaches to the headrest can vary depending on the model. Some use straps or brackets for secure attachment"
+                ]
+            }
+        ],
+        "additional": [
+            {
+                "name": "compatibility",
+                "desc": "Ensure the headrest DVD player's mounting system is compatible with the headrest design of your Land Cruiser."
+            },
+            {
+                "name": "screen size and resolution",
+                "desc": "Consider the viewing distance from the back seat and prioritize a screen size and resolution that offers a clear viewing experience."
+            },
+            {
+                "name": "playback options",
+                "desc": "Choose a model that supports the formats you plan to use (DVDs, USB drives, etc.)."
+            },
+            {
+                "name": "additional features",
+                "desc": "Decide if features like wireless headphones or built-in games are important for your needs."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Electronic",
+        "name": "super audio touch screen specifications",
+        "img": [
+            "/images/Electronic/Super Audio Touch Screen 1.jpg",
+            "/images/Electronic/Super Audio Touch Screen 2.jpg",
+            "/images/Electronic/Super Audio Touch Screen 3.jpg",
+            "/images/Electronic/Super Audio Touch Screen 4.jpg",
+            "/images/Electronic/Super Audio Touch Screen 5.jpg",
+            "/images/Electronic/Super Audio Touch Screen 6.jpg"
+        ],
+        "specifications": [
+            {
+                "name": "display",
+                "desc": "Ranges from around 6 inches to 12 inches diagonally Varies from basic (like 480x272) to high definition (like 1280x720)"
+            },
+            {
+                "name": "features",
+                "desc": [
+                    "Smartphone Mirroring: Allows you to mirror the display of your compatible smartphone onto the touchscreen for using apps, navigation, or viewing media",
+                    "Traffic Navigation: Provides real-time traffic information to help you avoid congestion",
+                    "Internal Pitch and Roll Gauges: Displays gauges that show the vehicle's incline and angle - useful for off-road driving (not a common factory feature)",
+                    "Worldwide Internet Radio: Allows you to access and listen to internet radio stations from around the world",
+                    "Fully Functional GPS: Provides turn-by-turn navigation using GPS technology",
+                    "CD/DVD Playback: Plays CDs and DVDs for audio and video entertainment. Some models might not include DVD playback",
+                    "Mood Light Control: Allows you to control the color and intensity of the ambient lighting inside the vehicle (not a common factory feature)"
+                ]
+            },
+            {
+                "name": "connectivity",
+                "desc": [
+                    "Bluetooth: Allows for hands-free phone calls and wireless audio streaming from your phone",
+                    "USB Ports: Provides ports for connecting USB flash drives for music and video playback, or for charging your phone",
+                    "Auxiliary Input (less common): May have an auxiliary input jack for connecting external audio devices using a cable"
+                ]
+            }
+        ],
+        "additional": [
+            {
+                "name": "compatibility",
+                "desc": "Ensure the system is compatible with the year and model of your Land Cruiser. Installation might require modifications to the vehicle's dashboard."
+            },
+            {
+                "name": "brand reputation",
+                "desc": "Research the brand of the Super Audio Touch Screen to understand their reputation for quality and customer support."
+            },
+            {
+                "name": "professional installation",
+                "desc": "It's highly recommended to have the system installed by a professional car audio installer to ensure proper functionality and avoid damaging your vehicle's electrical system."
+            },
+            {
+                "name": "warranty",
+                "desc": "Consider the warranty offered on the Super Audio Touch Screen and the installation labor."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Exterior",
+        "name": "alloy wheels - land cruiser specific points",
+        "img": [
+            "/images/Exterior/ALLOY WHEEL -LAND CRUISER 3.jpg",
+            "/images/Exterior/ALLOY WHEEL -LAND CRUISER 1.jpg",
+            "/images/Exterior/ALLOY WHEEL -LAND CRUISER 2.webp"
+        ],
+        "specifications": [
+            {
+                "name": "size",
+                "desc": "Select a wheel diameter that complements your Land Cruiser's size and intended use. Larger diameter wheels can enhance ground clearance but might require larger tires, potentially affecting handling and fuel efficiency. Wider wheels can improve stability and allow for wider tires, offering better off-road traction. However, excessively wide wheels might cause rubbing against fenders or require fender modifications."
+            },
+            {
+                "name": "offset",
+                "desc": "Wheel offset refers to the distance between the mounting surface of the wheel and the centerline of the wheel. Choosing the correct offset is crucial for proper fitment, suspension clearance, and steering geometry. Zero offset, positive offset, and negative offset are the main types. Consult your Land Cruiser's owner's manual or a reputable wheel retailer to determine the recommended offset for your specific model and year."
+            },
+            {
+                "name": "material",
+                "desc": "The most common and affordable option, offering a good balance of weight and strength. A lighter and stronger option compared to cast aluminum, but typically more expensive. Ideal for off-road use where wheel strength is crucial."
+            },
+            {
+                "name": "finish",
+                "desc": "A polished aluminum look that can show scratches more easily.Available in various colors to match or complement your Land Cruiser's exterior. Consider a durable powder coat finish for better chip resistance.Offers a shiny and luxurious look but might not be ideal for off-road use due to potential scratching."
+            },
+            {
+                "name": "load rating",
+                "desc": "Ensure the chosen wheels have a load rating that exceeds the weight of your Land Cruiser (including passengers, cargo, and any additional equipment)."
+            }
+        ],
+        "additional": [
+            {
+                "name": "style",
+                "desc": "Alloy wheels come in various designs, from classic spoke patterns to modern off-road styles. Choose a design that complements your Land Cruiser's overall look and your personal preferences."
+            },
+            {
+                "name": "brand reputation",
+                "desc": "Opt for wheels from reputable brands known for quality and durability."
+            },
+            {
+                "name": "tire compatibility",
+                "desc": "Ensure the chosen wheels are compatible with the tire size you plan to use."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Exterior",
+        "name": "auto door closer system",
+        "img": [
+            "/images/Exterior/Auto door closer system Land Cruiser 1.jpeg",
+            "/images/Exterior/Auto door closer system Land Cruiser 3.jpeg",
+            "/images/Exterior/Auto door closer system Land Cruiser 2.webp"
+        ],
+        "specifications": [
+            {
+                "name": "compatibility",
+                "desc": "Ensure the chosen system is compatible with your specific Land Cruiser model and year."
+            },
+            {
+                "name": "professional installation",
+                "desc": "Installation typically requires modifications to the vehicle's door panels and electrical system. It's highly recommended to have a professional installer handle this process."
+            },
+            {
+                "name": "safety",
+                "desc": "Some auto door closer systems might not integrate seamlessly with the Land Cruiser's existing safety features. Ensure the chosen system maintains functionality of features like child safety locks and automatic door unlocking upon impact."
+            },
+            {
+                "name": "warranty",
+                "desc": "Adding an aftermarket system might void your Land Cruiser's warranty on related electrical components. Check your warranty terms before proceeding."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Exterior",
+        "name": "automatic mirror upgrade for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/AUTOMATIC MIRROR -LANDCRUISER 2.jpg",
+            "/images/Exterior/AUTOMATIC MIRROR -LANDCRUISER 1.jpeg",
+            "/images/Exterior/AUTOMATIC MIRROR -LANDCRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "automatic dimming",
+                "desc": "Automatically adjusts the mirror's reflectivity to reduce glare from headlights of vehicles behind you at night, improving visibility and reducing eye strain.Adding automatic dimming functionality typically requires replacing the existing rearview mirror with a compatible aftermarket unit and potentially splicing into the vehicle's wiring harness for power connection. Professional installation is highly recommended.Enhanced nighttime driving comfort and safety by reducing headlight glare."
+            },
+            {
+                "name": "automatic folding",
+                "desc": "Mirrors automatically fold inward when you lock the vehicle or unfold when you unlock it, protecting them from damage in tight spaces or car washes.Similar to dimming mirrors, automatic folding functionality often requires replacing the existing mirrors and potentially involving wiring modifications. Professional installation is crucial.Protects mirrors from getting bumped or damaged when parked in tight spaces or car washes."
+            },
+            {
+                "name": "additional considerations",
+                "desc": "Ensure the chosen automatic mirror system is compatible with your specific Land Cruiser model and year.Some aftermarket automatic mirrors might offer additional features like blind-spot monitoring or lane departure warnings. Consider your needs and budget when choosing a system.Aftermarket installations might void certain parts of your Land Cruiser's warranty. Check with your Toyota dealership before proceeding."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Exterior",
+        "name": "chrome back door stickers for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/BACK DOOR STICKERS CHROME 3.webp",
+            "/images/Exterior/BACK DOOR STICKERS CHROME 1.jpeg",
+            "/images/Exterior/BACK DOOR STICKERS CHROME 2.jpg"
+        ],
+        "specifications": [
+            {
+                "name": "material",
+                "desc": "These stickers typically use a chrome-plated plastic film or a Mylar base with a chrome finish, providing a shiny, reflective appearance that complements the Land Cruiser's bold look. Opt for stickers made with a durable, weather-resistant adhesive that won't peel or fade easily. Ensure they are UV resistant to prevent sun damage causing the chrome to lose its shine.Thicker stickers might offer better scratch resistance but have a slightly raised profile."
+            },
+            {
+                "name": "styles and designs",
+                "desc": "Various designs featuring the Land Cruiser logo or lettering are available, ranging from simple chrome logos to more elaborate designs with additional elements.Stickers replicating badges specific to your Land Cruiser model or trim level can add a touch of personalization.Chrome decals with text related to off-roading, adventure, or a specific Land Cruiser slogan are available.Some online retailers allow you to customize your own chrome decals with logos, text, or images."
+            },
+            {
+                "name": "application and removal",
+                "desc": "Ensure the back door surface is clean, dry, and free of any wax or grease for proper adhesion.Applying chrome stickers requires some care to avoid air bubbles or crooked placement. Consider getting help from someone or watching online tutorials for application tips.While most chrome stickers should remove cleanly, some might leave behind residue. Use a heat gun carefully to loosen the adhesive for easier removal, followed by wiping the area with a suitable cleaning product."
+            },
+            {
+                "name": "additional considerations",
+                "desc": "Check local regulations regarding sticker placement on vehicles, especially regarding size or anything that might obstruct taillights or the license plate.Consider the overall look you're aiming for with your Land Cruiser, as chrome stickers can add a stylish touch but might be considered too flashy or excessive by some."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Exterior",
+        "name": "Electric Cable Winch for Land Cruiser",
+        "img": [
+            "/images/Exterior/CABLE WINCH – ELECTRIC 3.avif",
+            "/images/Exterior/CABLE WINCH – ELECTRIC 2.jpeg",
+            "/images/Exterior/CABLE WINCH – ELECTRIC 1.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Capacity",
+                "desc": "Select a winch with a pulling capacity that exceeds the heaviest weight you expect to pull, typically at least 1.5 times the vehicle's gross weight rating (GVWR).Consider both empty spool speed for quicker cable payout and pulling speed under load for more control during winching operations."
+            },
+            {
+                "name": "Power Source",
+                "desc": "Ensure the winch voltage matches your Land Cruiser's battery voltage:hoose between solenoids for simplicity and affordability or contactors for smoother operation, especially for heavy-duty winching."
+            },
+            {
+                "name": "Operational Features",
+                "desc": "Allows manual pulling out of the winch cable without engaging the motor, useful for cable hook positioning.Stops the winch when pulling force exceeds a set limit, protecting the winch and cable from overloading.Provides added convenience and safety by enabling winch operation from outside the vehicle."
+            },
+            {
+                "name": "Additional Considerations",
+                "desc": "Consider the warranty offered by the winch manufacturer. Opt for winches from reputable brands known for quality and reliability.Choose between synthetic cables, which are lighter, stronger, and easier to handle but may require special care, and steel cables.Ensure compatibility with your Land Cruiser's bumper or frame. Professional installation is recommended for proper operation and safety."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Exterior",
+        "name": "TRD Pro Style Modification for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/CHANGE TO X TREM CAR LAND CRUISER 2.jpg",
+            "/images/Exterior/CHANGE TO X TREM CAR LAND CRUISER 3.jpeg",
+            "/images/Exterior/CHANGE TO X TREM CAR LAND CRUISER 1.jpg"
+        ],
+        "specifications": [
+            {
+                "name": "Visual Modifications",
+                "desc": "Consider replacing the standard grille with a TRD Pro-style grille or a similar aftermarket grille for a bolder off-road aesthetic.Upgrade to larger diameter wheels with an aggressive off-road tread pattern to enhance ground clearance and off-road traction. Install a suspension lift kit to raise the vehicle's ride height, improving ground clearance for tackling obstacles. Choose a reputable brand and ensure proper installation.Replace the stock running boards with side steps or rock sliders for better undercarriage protection on off-road trails.Add decals or graphics inspired by TRD Pro or X-Trem branding for a more aggressive look."
+            },
+            {
+                "name": "Functional Modifications",
+                "desc": "Install additional LED light bars or spotlights on the front bumper or roof rack to improve visibility in low-light off-road conditions.Equip your Land Cruiser with a winch on the front bumper for self-recovery if you get stuck off-road.Add skid plates to protect the engine, transmission, and transfer case from potential damage while driving over rocks or uneven terrain."
+            },
+            {
+                "name": "Important Considerations",
+                "desc": "Ensure modifications are compatible with your Land Cruiser model and year.Some modifications, like suspension lift kits or winches, require professional installation for proper functionality and safety.Aftermarket modifications might void certain parts of your Land Cruiser's warranty. Check with your Toyota dealership before proceeding.Research local regulations regarding visual modifications to ensure compliance with laws.Consider purchasing a used Toyota Tundra TRD Pro for a factory-built off-road vehicle, saving time and hassle with modifications."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Exterior",
+        "name": "Double Indicator Headlights for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/DOUBLE INDICATOR HEADLIGHT 2.webp",
+            "/images/Exterior/DOUBLE INDICATOR HEADLIGHT 1.jpeg",
+            "/images/Exterior/DOUBLE INDICATOR HEADLIGHT 3.jpg"
+        ],
+        "specifications": [
+            {
+                "name": "Functionality",
+                "desc": "LED strips or tubes within the headlight housing illuminate sequentially in the direction of the turn signal activation, enhancing visibility. The sequential lighting pattern can be more noticeable to other drivers, potentially improving safety."
+            },
+            {
+                "name": "Land Cruiser Compatibility",
+                "desc": "Double indicator headlights are not factory-installed and require modifications to the Land Cruiser's existing headlight assembly Installation involves removing existing headlights, installing new headlight assemblies, and potentially splicing wires. Professional installation is recommended."
+            },
+            {
+                "name": "Aftermarket Options",
+                "desc": "Aftermarket companies offer complete replacement headlight assemblies with double indicator functionality. Kits provide LED strips or tubes and wiring modifications to integrate double indicator feature into existing headlights."
+            },
+            {
+                "name": "Additional Considerations",
+                "desc": "Check local regulations regarding aftermarket lighting modifications.Aftermarket installations might void parts of your Land Cruiser's warranty. Check with your Toyota dealership.Choose reputable brands known for quality and proper fitment.Consider if double indicator headlights complement your Land Cruiser's overall aesthetic."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Exterior",
+        "name": "Fiber Bumpers for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/FIBER BUMPER LAND CRUISER 1.jpeg",
+            "/images/Exterior/FIBER BUMPER LAND CRUISER 2.jpeg",
+            "/images/Exterior/FIBER BUMPER LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Material",
+                "desc": "Common aftermarket option offering good strength-to-weight ratio and various designs. Susceptible to cracking, especially in colder climates.Premium option with exceptional strength and weight savings, but significantly more expensive than fiberglass.Less common but gaining popularity. Offers good flexibility and impact resistance, ideal for off-road use."
+            },
+            {
+                "name": "Functionality",
+                "desc": "Lighter than steel bumpers, potentially improving fuel efficiency and handling.Available in various styles, from sleek and modern to rugged off-road-oriented designs.Provides good protection against minor impacts but may not be as robust as steel bumpers for heavy-duty off-roading."
+            },
+            {
+                "name": "Land Cruiser Compatibility",
+                "desc": "Find a reputable brand offering bumpers specifically designed for your Land Cruiser model and year. Ensure proper fitment to avoid installation issues."
+            },
+            {
+                "name": "Additional Considerations",
+                "desc": "May not be ideal for extreme off-road use where heavy impacts are likely.Unpainted bumpers will require painting to match your Land Cruiser's exterior color.Ensure the bumper has a designated winch mounting point and can support the weight and pulling capacity of your winch.Professional installation is highly recommended. Some designs might require modifications to your Land Cruiser's frame."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "category": "Exterior",
+        "name": "Fog Lamps for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/OG LAMP LAND CRUISER 2.jpg",
+            "/images/Exterior/OG LAMP LAND CRUISER 1.jpeg",
+            "/images/Exterior/OG LAMP LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Land Cruiser Fog Lamp Options",
+                "desc":  "Check your Land Cruiser model and trim to see if fog lamps come pre-installed in the front bumper. Explore aftermarket options available in various sizes, styles, and beam patterns."
+            },
+            {
+                "name": "Aftermarket Fog Lamp Considerations",
+                "desc": "Long, narrow beams helpful for seeing further ahead in fog or light rain.Wider, flatter beams effective for cutting through fog.Versatile combination of driving and fog beam patterns.Choose durable housings made from high-quality plastic or metal.Consider between glass for better clarity and scratch resistance or plastic for affordability.Ensure the kit includes a proper wiring harness and a dedicated on/off switch. Professional installation is recommended."
+            },
+            {
+                "name": "Additional Considerations",
+                "desc": "Check local regulations regarding fog lamp placement, color, and activation rules.Choose fog lamps that complement your Land Cruiser's overall look."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "category": "Exterior",
+        "name": "Headlights for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/HEADLIGHT LAND CRUISER 3.jpg",
+            "/images/Exterior/HEADLIGHT LAND CRUISER 2.jpeg",
+            "/images/Exterior/HEADLIGHT LAND CRUISER 1.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Land Cruiser Headlight Options",
+                "desc": "Land Cruisers come with headlights that provide adequate illumination for most driving situations. However, some owners might prefer upgrades for various reasons. wide variety of aftermarket headlights are available for Land Cruisers, offering improved performance, aesthetics, or both."
+            },
+            {
+                "name": "Types of Aftermarket Headlights",
+                "desc": "Common and affordable option with replaceable halogen bulbs, offering decent improvement over stock headlights.Provide brighter and whiter light compared to halogens, improving nighttime visibility.Offer brightest and most energy-efficient option, lasting significantly longer than halogens or HIDs.Feature projector lens for sharper and more controlled light output, reducing glare for oncoming drivers."
+            },
+            {
+                "name": "Aftermarket Headlight Considerations",
+                "desc": "Ensure headlights are compatible with your Land Cruiser model and year to avoid modifications.Consider brightness and beam pattern based on your driving needs.Some aftermarket headlights might not comply with local regulations.Professional installation is recommended for complex installations.Choose a style that complements your Land Cruiser's overall look."
+            },
+            {
+                "name": "Additional Considerations",
+                "desc": "Factory-installed headlights designed to meet safety standards and provide adequate illumination.Consider professional headlight restoration service before opting for replacements."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "category": "Exterior",
+        "name": "Blacked-Out Upgrade for Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/LC UPGRADE TO BLACK EDITION 1.jpg",
+            "/images/Exterior/LC UPGRADE TO BLACK EDITION 2.jpg",
+            "/images/Exterior/LC UPGRADE TO BLACK EDITION 3.webp"
+        ],
+        "specifications": [
+            {
+                "name": "Blacked-Out Appearance Options",
+                "desc": "Some Land Cruiser trims may offer an appearance package featuring black exterior accents like wheels, badges, or mirror caps.The aftermarket offers a variety of black exterior parts including wheels, grille overlays, window trim, roof rack components, and blacked-out headlight and taillight housings (subject to local regulations).A complete black paint job is the most dramatic way to achieve a blacked-out look. Ensure it's done by a reputable auto body shop."
+            },
+            {
+                "name": "Considerations for Blacked-Out Upgrade",
+                "desc": "Ensure aftermarket parts are compatible with your Land Cruiser model and year.Choose high-quality parts made from durable materials like ABS plastic or forged aluminum for wheels.Check local regulations regarding modifications like tinted windows or darkened headlight/taillight housings.Be aware that extensive aftermarket modifications could potentially void certain warranties on your vehicle. Consult your dealership if unsure."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "category": "Exterior",
+        "name": "Roof Carriers for Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/ROOF CARRIER LAND CRUISER 1.jpg",
+            "/images/Exterior/ROOF CARRIER LAND CRUISER 2.jpeg",
+            "/images/Exterior/ROOF CARRIER LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Types of Roof Carriers",
+                "desc": "The most common type of roof carrier, consisting of two horizontal bars that mount onto the Land Cruiser's roof rails or directly onto raised mounting points. They provide a base for attaching various accessories like cargo baskets, roof boxes, kayaks, bikes, or other gear.Offering a more elevated and versatile platform above the Land Cruiser's roof, ideal for carrying bulky items like tents, firewood, or additional off-road gear. Often equipped with side rails for securing cargo and can be customized with accessories like tie-down points or lighting.Open-air mesh baskets that attach to cross bars, providing a convenient way to carry loose items like firewood, camping gear, or recovery equipment."
+            },
+            {
+                "name": "Land Cruiser Compatibility",
+                "desc": "Not all Land Cruisers come with factory-installed roof rails. Ensure the roof carrier you choose is compatible with your specific model and year, whether it mounts onto existing roof rails or directly onto the roof.Consider the Land Cruiser's maximum roof weight capacity, including the weight of the roof carrier itself and all the cargo. Never exceed the recommended weight limit to avoid damage or safety issues."
+            },
+            {
+                "name": "Material",
+                "desc": "The most common and durable option, offering excellent weight capacity but heavier in weight.A lighter alternative to steel, resistant to rust but potentially less robust for extremely heavy loads."
+            },
+            {
+                "name": "Additional Points",
+                "desc": "Some roof carriers feature an aerodynamic design to minimize wind noise and drag while driving.Consider how easy the roof carrier is to install and remove, ranging from minimal tools to more complex installations.Look for locking mechanisms for the roof carrier and mounted accessories for added security.While aerodynamic designs help, all roof carriers can generate some wind noise at higher speeds."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "category": "Exterior",
+        "name": "Chrome Roof Rails for Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/ROOF RAIL CHROME LAND CRUISER 3.jpg",
+            "/images/Exterior/ROOF RAIL CHROME LAND CRUISER 2.jpeg",
+            "/images/Exterior/ROOF RAIL CHROME LAND CRUISER 1.png"
+        ],
+        "specifications": [
+            {
+                "name": "Types of Chrome Roof Rails",
+                "desc": "Original equipment manufacturer (OEM) rails designed specifically for your Land Cruiser model, offering the best fit and finish and seamlessly integrating with the vehicle's design.Provide a wider variety of styles and price points compared to OEM rails. While they may not always offer a perfect fit, they can still enhance the look of your Land Cruiser."
+            },
+            {
+                "name": "Features of Chrome Roof Rails",
+                "desc": "Typically made from high-quality stainless steel or aluminum with a chrome finish, providing strength, durability, and resistance to corrosion.Varies depending on the model and manufacturer. It's important to check the weight capacity before adding any cargo or accessories to the roof.OEM roof rails typically integrate with existing mounting points, while aftermarket options may require drilling or modifications. Professional installation is recommended."
+            },
+            {
+                "name": "Benefits of Chrome Roof Rails",
+                "desc": "Add a touch of class and sophistication to your Land Cruiser's exterior.Allow for the mounting of additional cargo carriers, roof boxes, tents, or other accessories, increasing utility.Provide minor protection for the roof of your vehicle from scratches or branches."
+            },
+            {
+                "name": "Additional Points to Consider",
+                "desc": "Some aftermarket roof rails may generate wind noise at high speeds.Adding roof rails can slightly decrease gas mileage.Require occasional cleaning to maintain their shine. Use a mild soap and water solution and avoid harsh chemicals or abrasive cleaners."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "category": "Exterior",
+        "name": "Sensors for Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/SENSOR ORIGINAL FRONT & REAR SET LAND CRUISER 2.jpeg",
+            "/images/Exterior/SENSOR ORIGINAL FRONT & REAR SET LAND CRUISER 3.jpg",
+            "/images/Exterior/SENSOR ORIGINAL FRONT & REAR SET LAND CRUISER 1.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Parking Sensors",
+                "desc": "Usually located in the front and rear bumpers Assist with parking maneuvers by detecting obstacles nearby, emitting a beeping sound or illuminating a visual warning on the dashboard as you get closer to an object."
+            },
+            {
+                "name": "Sonar Sensors",
+                "desc": "Utilized for features like detecting approaching vehicles in blind spots or behind you when reversing, emitting sound waves and analyzing reflected echoes."
+            },
+            {
+                "name": "Camera Sensors",
+                "desc": "Provide visual views on the dashboard for features like a surround-view camera system or lane departure warning."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "category": "Exterior",
+        "name": "Side Moldings for Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/SIDE MOULDING LAND CRUISER 1.webp",
+            "/images/Exterior/SIDE MOULDING LAND CRUISER 2.jpeg",
+            "/images/Exterior/SIDE MOULDING LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Material",
+                "desc": "Common and affordable option, lightweight, durable, and resistant to corrosion. Available in various colors to match your Land Cruiser's paint job.Offer a glossy finish and good clarity, but more susceptible to scratching compared to ABS.Flexible rubber material that conforms well to the contours of the Land Cruiser's doors, providing scratch and dent protection. Typically available in black."
+            },
+            {
+                "name": "Benefits",
+                "desc": "Acts as a barrier against scratches, dings, and minor abrasions caused by opening doors in tight spaces or road debris.Accentuates the body lines of your Land Cruiser, enhancing its visual appeal.Provides extra protection for door handles against scratches from fingernails, jewelry, or bags."
+            },
+            {
+                "name": "Drawbacks",
+                "desc": "Incorrect installation can trap moisture, leading to rust. Professional installation is recommended.Some may find side moldings visually unappealing, disrupting the clean lines of the Land Cruiser's design.Varies depending on material, brand, and complexity of the design. Installation adds to the overall cost."
+            },
+            {
+                "name": "Additional Points to Consider",
+                "desc": "Ensure the side moldings are designed to fit the specific model and year of your Land Cruiser.Consider whether the moldings use double-sided tape or require drilling. Opt for tape installation to preserve the original bodywork.Choose a color that complements your Land Cruiser's paint job for a cohesive look. Black is versatile, but painted options are available."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "category": "Exterior",
+        "name": "Side Stickers for Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/SIDE STICKER LAND CRUISER 1.jpg",
+            "/images/Exterior/SIDE STICKER LAND CRUISER 2.png",
+            "/images/Exterior/SIDE STICKER LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Types of Side Stickers",
+                "desc": "Featuring various designs of the Land Cruiser logo or lettering, including simple logos, detailed emblems, or vintage-style logos.Replicating badges specific to your Land Cruiser model (like Prado, LC200, etc.) or trim level (VX, ZX, etc.) for personalization.Decals with text related to off-roading, adventure, Land Cruiser slogans, or custom messages.Thin vinyl stripes running along the side of the vehicle, available in various colors and widths for a subtle accent.Featuring mountain landscapes, off-road scenes, or other visuals related to your Land Cruiser's capabilities and your interests."
+            },
+            {
+                "name": "Material",
+                "desc": "Common and affordable option, offering good durability and weather resistance. Choose high-quality vinyl with UV protection to prevent fading.Premium option with superior scratch and weather resistance compared to vinyl, but typically more expensive."
+            },
+            {
+                "name": "Placement",
+                "desc": "Popular placement on the lower portion of the front and rear doors.Side panels of the cargo area, especially for decals related to off-roading or camping gear.Some owners choose to place stickers on the front fenders, ensuring they don't obstruct lights."
+            },
+            {
+                "name": "Additional Considerations",
+                "desc": "Choose stickers appropriately sized for your Land Cruiser model to avoid overwhelming or visually lost stickers.Select stickers that complement your Land Cruiser's paint job. Black or white stickers are versatile, but colored accents can add a personal touch.Check local regulations regarding sticker placement, size, or anything that might obstruct lights or the license plate.Ensure the application surface is clean and dry for proper adhesion. Use a heat gun carefully for stubborn adhesive removal, followed by cleaning to avoid damaging the paint."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "category": "Exterior",
+        "name": "Snorkels for Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/SNORKEL LAND CRUISER 1.webp",
+            "/images/Exterior/SNORKEL LAND CRUISER 2.jpg",
+            "/images/Exterior/SNORKEL LAND CRUISER 3.jpg"
+        ],
+        "specifications": [
+            {
+                "name": "Function",
+                "desc": "Relocates the engine's air intake point to a higher and safer spot, reducing the risk of water, dust, and debris ingestion when driving through deep water, sand, or dusty conditions."
+            },
+            {
+                "name": "Land Cruiser Snorkel Options",
+                "desc": "Typically made from UV-stable, high-impact resistant plastic like ABS, designed to withstand harsh weather and off-road use.Available in various styles, including those following the A-pillar contour for a sleek look or safari-style designs.Some snorkels include an air ram at the top to help separate water particles from the incoming air for better engine protection."
+            },
+            {
+                "name": "Benefits",
+                "desc": "Reduces the risk of water or dust damaging the engine, crucial for off-road driving.Some snorkels can improve air intake efficiency, potentially leading to a slight power increase.Enhances the vehicle's ability to tackle deeper water crossings without stalling the engine."
+            },
+            {
+                "name": "Drawbacks",
+                "desc": "Alters the vehicle's appearance, which some may find unappealing.Cost of the snorkel and professional installation can be significant.Installing a snorkel might void certain parts of the Land Cruiser's warranty. Check with your Toyota dealership beforehand."
+            },
+            {
+                "name": "Choosing a Snorkel",
+                "desc": "Ensure the snorkel is specifically designed to fit your Land Cruiser's model and year.Opt for snorkels from reputable brands known for quality materials and good fitment.Consider both style and functionality based on your off-road driving preferences."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "category": "Exterior",
+        "name": "Rear Spoilers for Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/SPOILER UP -LAND CRUISER 1.webp",
+            "/images/Exterior/SPOILER UP -LAND CRUISER 2.jpg",
+            "/images/Exterior/SPOILER UP -LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Functionality",
+                "desc": "Unlike high-performance vehicles, Land Cruisers typically don't benefit significantly from downforce generated by a rear spoiler. Their primary purpose is often aesthetic.In some cases, a well-designed spoiler might offer slightly improved high-speed stability or reduce wind noise at the rear of the vehicle, but these benefits are debatable and depend on the specific spoiler design."
+            },
+            {
+                "name": "Spoiler Types for Land Cruisers",
+                "desc": "Some Land Cruiser models, especially higher trims, might come with a factory-installed rear spoiler designed to complement the overall aesthetics and integrate seamlessly with the vehicle's lines.A wide variety of aftermarket spoilers are available for Land Cruisers, coming in various styles, sizes, and materials."
+            },
+            {
+                "name": "Aftermarket Spoiler Options",
+                "desc": "Most common and affordable option, offering a good balance of weight and durability.Lighter and more flexible, allowing for more intricate designs, but can be more prone to cracking compared to ABS plastic.Relatively new option offering good flexibility, durability, and resistance to UV rays and cracking."
+            },
+            {
+                "name": "Additional Considerations",
+                "desc": "Ensure the chosen spoiler complies with local regulations regarding size and protrusion from the vehicle. Extremely large or high spoilers might be illegal in some areas.Very large or heavy spoilers can add unnecessary weight to the rear of the Land Cruiser, potentially affecting handling.Consider your comfort level with modifications or opt for spoilers with adhesive mounting options to avoid drilling into the trunk lid.Unpainted spoilers might require painting to match your Land Cruiser's exterior color. Factor in the cost of professional painting if needed."
+            },
+            {
+                "name": "Alternatives",
+                "desc": "Consider finding a used factory spoiler from the same Land Cruiser model and year for a clean and compatible fit, if your Land Cruiser doesn't have a factory-installed spoiler.Land Cruisers generally have a well-proportioned design, and a spoiler might not be necessary for aesthetics or functionality."
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "category": "Exterior",
+        "name": "Sun Visors in Toyota Land Cruisers",
+        "img": [
+            "/images/Exterior/SUN VISOR LAND CRUISER 1.jpg",
+            "/images/Exterior/SUN VISOR LAND CRUISER 2.webp",
+            "/images/Exterior/SUN VISOR LAND CRUISER 3.avif"
+        ],
+        "specifications": [
+            {
+                "name": "Standard Features",
+                "desc": "Land Cruisers typically come with sun visors for both the driver and front passenger.Most models have visors that extend outward to provide additional shade from the sun.The passenger-side visor often includes a lighted vanity mirror."
+            },
+            {
+                "name": "Variations by Model and Year",
+                "desc": "Sun visor material can vary depending on the model and year, commonly made of fabric or vinyl, with some higher-end models featuring leather-wrapped sun visors.Driver-side sun visors might include a vanity mirror with illumination on some Land Cruiser models.A few Land Cruiser models might have a built-in ticket holder on the driver-side visor."
+            },
+            {
+                "name": "Aftermarket Options",
+                "desc": "Find replacement visors made specifically for your Land Cruiser model and year from Toyota dealerships or parts suppliers if the original visors are damaged or worn.Some aftermarket companies offer custom sun visors with features like additional padding, mesh pockets, or built-in headrest monitors for rear passengers."
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "category": "Exterior",
+        "name": "Kinetic Dynamic Suspension System (KDSS) in Toyota Land Cruiser",
+        "img": [
+            "/images/Exterior/SUSPENSION SYSTEM LAND CRUISER 1.png",
+            "/images/Exterior/SUSPENSION SYSTEM LAND CRUISER 2.png",
+            "/images/Exterior/SUSPENSION SYSTEM LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Hydraulic Cylinders",
+                "desc": "The KDSS uses hydraulic cylinders to disconnect the front and rear stabilizer bars, allowing independent wheel articulation to improve traction on uneven terrain."
+            },
+            {
+                "name": "Accumulator Valve",
+                "desc": "The KDSS incorporates an accumulator valve to control the flow of hydraulic fluid, maintaining stability on the road by limiting movement in the stabilizer bars."
+            },
+            {
+                "name": "Electronic Control Unit (ECU)",
+                "desc": "The KDSS is governed by an electronic control unit (ECU) that monitors the vehicle's suspension and steering inputs. The ECU adjusts hydraulic pressure in the system for optimal suspension performance based on driving conditions."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "category": "Exterior",
+        "name": "Upgrading a 2008 Land Cruiser to Resemble a 2020 Model",
+        "img": [
+            "/images/Exterior/UPGRADE KIT TO CHANGE LAND CRUISER FROM 2008 TO 2020 FOR OUTSIDE & INSIDE 2.webp",
+            "/images/Exterior/UPGRADE KIT TO CHANGE LAND CRUISER FROM 2008 TO 2020 FOR OUTSIDE & INSIDE 1.png",
+            "/images/Exterior/UPGRADE KIT TO CHANGE LAND CRUISER FROM 2008 TO 2020 FOR OUTSIDE & INSIDE 3.webp"
+        ],
+        "specifications": [
+            {
+                "name": "Front Grille",
+                "desc": "Replace the 2008 grille with a 2020-style aftermarket grille specifically designed for your Land Cruiser model. Ensure compatibility and choose a high-quality brand for proper fitment."
+            },
+            {
+                "name": "Headlights and Taillights",
+                "desc": "Replacing the headlights and taillights with 2020-spec counterparts might be challenging. Options include aftermarket lookalike lights or professional retrofit projects to incorporate 2020-style LED components."
+            },
+            {
+                "name": "Body Panels and Paint",
+                "desc": "While replacing entire body panels is impractical, consider adding subtle upgrades like aftermarket fender flares and side skirts to enhance the visual resemblance to the 2020 model."
+            },
+            {
+                "name": "Wheels and Tires",
+                "desc": "Upgrade to wheels with a design similar to the 2020 Land Cruiser and tires with a more aggressive off-road tread pattern to alter the overall look."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "category": "Exterior",
+        "name": "body kits for your Land Cruiser",
+        "img": [
+            "/images/Exterior/BODY KIT LAND CRUISER 2.jpg",
+            "/images/Exterior/BODY KIT LAND CRUISER 1.jpg",
+            "/images/Exterior/BODY KIT LAND CRUISER 3.jpeg"
+        ],
+        "specifications": [
+            {
+                "name": "Complete Body Kits",
+                "desc": "These kits include multiple components designed to modify the entire vehicle exterior, often including front bumpers, rear bumpers, side skirts, fender flares, and sometimes even spoilers."
+            },
+            {
+                "name": "Partial Body Kits",
+                "desc": "These kits focus on specific areas, such as just the front bumper and fender flares, allowing for a more customized approach."
+            },
+            {
+                "name": "Aftermarket Body Kits",
+                "desc": "Offer a wider variety of styles and designs to personalize your Land Cruiser. Carefully research the brand's reputation and ensure proper fitment for your specific model and year."
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "category": "Exterior",
+        "name": "Lc upgrade",
+        "img": [
+            "/images/Exterior/LC UPGRADE 2020 1.webp",
+            "/images/Exterior/LC UPGRADE 2020 2.jpg",
+            "/images/Exterior/LC UPGRADE 2020 3.webp"
+        ],
+        "specifications": [
+            {
+                "name": "infotainment system",
+                "desc": "Upgraded with a larger touchscreen display, improved graphics, and additional features like Apple CarPlay, Android Auto, or Wi-Fi hotspot capability."
+            },
+            {
+                "name": "safety features",
+                "desc": "May include new driver-assistance features such as automatic emergency braking with pedestrian detection, lane departure warning with lane keep assist, or blind-spot monitoring with rear cross-traffic alert."
+            },
+            {
+                "name": "convenience features",
+                "desc": "May include upgrades such as a heated steering wheel, ventilated seats, a panoramic sunroof, or a digital instrument cluster."
+            }
+        ]
+    }
+]

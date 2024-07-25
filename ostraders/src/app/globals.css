@@ -1,0 +1,46 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --bg-color: #000;
+  --bg2-color: #1b1b1b;
+  --text-color: #fff;
+  --accent-color: #871719;
+  --text2-color: #C2C2C2;
+  --secondary-color: #C2C2C2;
+
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  overflow-x: clip;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none !important;
+  color: var(--primary-color) !important;
+  font-weight: 500;
+}
+
+ul {
+  padding-left: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+ul li{
+  list-style-type: none !important;
+}

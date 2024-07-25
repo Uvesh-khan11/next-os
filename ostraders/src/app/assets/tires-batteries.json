@@ -1,0 +1,82 @@
+[
+    {
+        "img": [
+            "/images/tires/linglongTire.jpg"
+        ],
+        "name": "Sport Master",
+        "category": "Tires",
+        "brand": "Linglong Tire"
+    },
+    {
+        "img": [
+            "/images/tires/LeoTires.jpg"
+        ],
+        "name": "A908 Regional All Postion",
+        "category": "Tires",
+        "brand": "Leao Tires"
+    },
+    {
+        "img": [
+            "/images/tires/infinityTires.png"
+        ],
+        "name": "Passenger Tires",
+        "category": "Tires",
+        "brand": "Infinity Tires"
+    },
+    {
+        "img": [
+            "/images/tires/GoodYear.png"
+        ],
+        "name": "GoodYear assurance comforttred",
+        "category": "Tires",
+        "brand": "GoodYear"
+    },
+    {
+        "img": [
+            "/images/tires/roadone.webp"
+        ],
+        "name": "HF31 Truck Tire",
+        "category": "Tires",
+        "brand": "GoodYear"
+    },
+    {
+        "img": [
+            "/images/tires/bridgeStone.jpg"
+        ],
+        "name": "Passenger Car Tires",
+        "category": "Tires",
+        "brand": "Bridge Stone"
+    },
+    {
+        "img": [
+            "/images/tires/toyoTires.jpg"
+        ],
+        "name": "Proxes Sport Max Perfomance Summer Tire",
+        "category": "Tires",
+        "brand": "Toyo Tires"
+    },
+    {
+        "img": [
+            "/images/Batteries/Lithium Leisure Batteries.png"
+        ],
+        "name": "Lithium Leisure Batteries",
+        "category": "Batteries",
+        "brand": "Bosch"
+    },
+    {
+        "img": [
+            "/images/Batteries/viscaPower.webp"
+        ],
+        "name": "Jeje Visca Power 12V Cmf",
+        "category": "Batteries",
+        "brand": "Visca Power"
+    },
+    {
+        "img": [
+            "/images/Batteries/ChlorideExide.webp"
+        ],
+        "name": "N50MF PowerBlast (Short Box)",
+        "category": "Batteries",
+        "brand": "Chloride Excide"
+    }
+]

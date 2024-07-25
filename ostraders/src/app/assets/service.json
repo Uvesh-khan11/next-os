@@ -1,0 +1,39 @@
+[
+        {
+            "id": 1,
+            "title": "Roll On Roll Off Vessels",
+            "img": [
+                "/images/RORO.jpg",
+                "/images/Roll_On_Roll_Off_Vessels_0.jpg",
+                "/images/Roll_On_Roll_Off_Vessels_1.jpg",
+                "/images/Roll_On_Roll_Off_Vessels_2.jpg",
+                "/images/Roll_On_Roll_Off_Vessels_3.jpg"
+            ],
+            "description": "We offer the flexibility of transporting your cars, trucks, or any wheeled cargo. RORO (Roll On Roll Off) vessels are specialized ships designed to carry wheeled cargo that is driven on and off the ship on its own wheels. This method is ideal for vehicles of all sizes, from small cars to large trucks. It ensures safe and secure transportation without the need for cranes or other heavy lifting equipment. No matter the destination, we provide reliable RORO services to get your vehicles to you safely and efficiently."
+        },
+        {
+            "id": 2,
+            "title": "Air Freight Services",
+            "img": [
+                "/images/Air Fright.jpg",
+                "/images/Air_Freight_Services_0.jpg",
+                "/images/Air_Freight_Services_1.jpg",
+                "/images/Air_Freight_Services_2.jpg",
+                "/images/Air_Freight_Services_3.jpg"
+            ],
+            "description": "Our air freight services allow us to deliver your vehicles from anywhere around the world to your specified destination. We ensure world-class service, providing you with the flexibility and speed that air transport offers. Air freight is the fastest way to get your automobiles delivered, making it perfect for urgent or high-value shipments. Our comprehensive air freight services include everything from packaging and documentation to customs clearance and final delivery, ensuring a seamless experience from start to finish."
+        },
+        {
+            "id": 3,
+            "title": "Sea Freight Services",
+            "img": [
+                "/images/Sea Fright.jpg",
+                "/images/Sea_Freight_Services_0.jpg",
+                "/images/Sea_Freight_Services_1.jpg",
+                "/images/Sea_Freight_Services_2.jpg",
+                "/images/Sea_Freight_Services_3.jpg"
+            ],
+            "description": "We provide cost-effective sea freight services, handling containers of various sizes (20' and 40') as well as less-than-container load (LCL) cargo. Sea freight is a reliable and economical option for shipping large volumes of vehicles over long distances. Our services cover all aspects of sea freight logistics, including consolidation, container loading, and tracking. Whether you need to ship a single vehicle or a full container load, we offer competitive rates and flexible solutions to meet your needs. Our goal is to bring your vehicles to you safely and at competitive rates."
+        }
+    
+]

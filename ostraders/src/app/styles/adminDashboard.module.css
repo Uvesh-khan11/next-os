@@ -1,0 +1,157 @@
+
+  .container {
+    width: 100%;
+    display: flex;
+  }
+  
+  .navbar input {
+    background-color: #eee;
+    border: hidden;
+    width: 230px;
+    border-radius: 20px;
+    outline: none;
+  }
+  
+  .searchbox {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  .leftmenu {
+    background-color: white;
+    border-radius: 10px;
+    width: 13%;
+    height: 100%;
+    padding: 20px;
+  }
+  
+  .leftmenu i {
+    padding-right: 10px;
+  }
+  
+  .circal {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 60%;
+    background-color: black;
+    margin-left: 50px;
+  }
+  
+  .circal img {
+    width: 90%;
+    padding-top: 15px;
+    padding-left: 3px;
+  }
+  
+  .circaltext {
+    text-align: center;
+  }
+  
+  .rigth {
+    margin-left: 20px;
+  }
+  
+  .maincontainer {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 30px;
+  }
+  
+  .maincontainer td {
+    padding: 20px;
+    text-align: center;
+    padding-right: 85px;
+  }
+  
+  .maincontainer th {
+    padding-right: 85px;
+  }
+  
+  table {
+    margin-top: 20px;
+  }
+  
+  .navbar {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .navbar .text {
+    padding: 8px;
+    border-radius: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: #eee;
+    cursor: pointer;
+  }
+  
+  .navbar .text:hover a {
+    color: white !important;
+    text-decoration: none;
+  }
+  
+  .navbar .text i {
+    padding-bottom: 3px;
+  }
+  
+  .navbar .text2 {
+    padding-right: 17px;
+    margin-left: 5px;
+  }
+  
+  .navbar .text:hover i {
+    color: white !important;
+  }
+  
+  .navbar .text a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .navbar .text:hover {
+    background-color: black;
+    color: white !important;
+  }
+  
+  .navbar .text1 {
+    margin-left: 500px;
+  }
+  
+  .navbar .text:focus {
+    background-color: black;
+  }
+  
+  .leftmenu a {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .menubutton {
+    width: 85%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    padding-left: 16px;
+    cursor: pointer;
+  }
+  
+  .menubutton:hover {
+    background-color: black;
+    color: white;
+  }
+  
+  .menubutton:focus {
+    background-color: black;
+    color: white;
+  }
+  
+  .leftmenu .menubutton:hover a i {
+    color: #fff !important;
+  }
+  

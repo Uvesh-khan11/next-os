@@ -1,0 +1,381 @@
+
+.card {
+    width: 100%;
+    overflow: hidden !important;
+    /* margin-right: 50px; */
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 30px;
+    position: relative;
+    margin-bottom: 20px;
+    background-color: var(--bg2-color);
+}
+
+.card .content {
+    padding: 3.5vw 3.5vw 8vw 3.5vw;
+}
+
+.card .content i {
+    font-size: 4vw;
+    margin-bottom: 8px;
+    color: var(--accent-color);
+}
+
+.card .content p {
+    font-size: 1vw;
+    font-weight: 300;
+    letter-spacing: .5px;
+}
+
+.card .bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    z-index: 999;
+}
+
+.card .bottom .title {
+    margin-left: 30px;
+    font-size: 1.8vw;
+    font-weight: 300;
+}
+
+.card .bottom .title h4 {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0;
+    letter-spacing: .5px;
+}
+
+.card .curvbtn {
+    position: relative;
+    /* position: absolute;
+    bottom: 0;
+    left: 0; */
+    width: 7vw;
+    height: 7vw;
+    line-height: 55px;
+    text-align: center;
+    border-radius: 0 40px 0 0;
+    background-color: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card .curvbtn .img {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    font-weight: bold;
+    letter-spacing: .5px;
+    border: 1px solid var(--accent-color);
+}
+
+.card:hover .curvbtn .img{
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+.card .curvbtn .br_left_top {
+    position: absolute;
+    top: -24px;
+    left: -1px;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    line-height: 1;
+}
+
+.card .curvbtn .br_left_top svg {
+    width: 24px;
+    height: 24px;
+}
+
+.card .curvbtn .br_right_bottom {
+    position: absolute;
+    bottom: -1px;
+    right: -24px;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    line-height: 1;
+}
+
+
+.card .curvbtn .br_right_bottom svg {
+    width: 24px;
+    height: 24px;
+}
+
+/* rating code is herer  */
+
+.card .rating {
+    position: absolute;
+    right: -6px;
+    top: 0;
+    width: 10vw;
+    height: 3.3vw;
+    line-height: 55px;
+    text-align: center;
+    border-radius: 0 40px 0 0;
+    background-color: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card .rating i {
+    margin: 0 .1vw;
+    font-size: 1.1vw;
+    color: var(--accent-color);
+}
+
+
+
+.card .rating .br_left_bottom {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    -webkit-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    line-height: 1;
+}
+
+.card .rating .br_left_bottom svg {
+    width: 24px;
+    height: 24px;
+}
+
+.card .rating .br_left_bottom svg path {
+    fill: var(--bg2-color) !important;
+}
+
+.card .rating .br_right_bottom {
+    position: absolute;
+    bottom: -24px;
+    right: 6px;
+    -webkit-transform: rotate(-270deg);
+    -ms-transform: rotate(-270deg);
+    transform: rotate(-270deg);
+    line-height: 1;
+}
+
+
+.card .rating .br_right_bottom svg {
+    width: 24px;
+    height: 24px;
+}
+
+@media (max-width: 1140px) {
+    .card .content {
+        padding: 50px 50px 110px 50px;
+    }
+
+    .card .curvbtn {
+        width: 85px;
+        height: 85px;
+    }
+
+    .card .curvbtn .img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .card .rating i {
+        margin: 0 1px;
+        font-size: 1rem;
+    }
+
+    .card .content i {
+        font-size: 3.3rem;
+    }
+
+    .card .content p {
+        font-size: .85rem;
+    }
+
+    .card .rating {
+        width: 130px;
+        height: 45px;
+    }
+
+    .card .bottom .title {
+        font-size: 1.2rem;
+    }
+}
+
+
+/* page css code hreere  */
+
+.slider_container{
+    width: 100%;
+    height: 70vh;
+    overflow: hidden;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image img{
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+
+.slider_container .head{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 9vw 0 0 9vw;
+    z-index: 999;
+    margin: auto 0;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+    flex-direction: column;
+    color: var(--text-color);
+    font-size: 3vw;
+}
+
+.slider_container .head span{
+    font-size: .5em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: var(--accent-color);
+}
+
+.slider_container .head h1{
+    font-size: 1em;
+    font-weight: bold;
+    letter-spacing: .5px;
+}
+
+
+.content{
+    padding-top: 80px;
+}
+
+.content p{
+    margin: 20px 0;
+    opacity: .7;
+    font-size: .9rem;
+    font-weight: 300;
+    line-height: 200%;
+    letter-spacing: .5px;
+}
+
+
+.content .price {
+    background: var(--bg2-color);
+    border-radius: 40px;
+    overflow: hidden;
+    margin-top: -100px;
+    z-index: 9999;
+    position: relative;
+}
+
+.content .price_head {
+    padding: 30px 0;
+    background: var(--accent-color);
+    text-align: center;
+}
+
+.content .price_head h3 {
+    font-weight: bold;
+}
+
+.content .price_info {
+    padding: 20px 30px;
+    height: 100%;
+}
+
+.content .price_info span {
+    font-size: .9rem;
+    opacity: .8;
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.content .price_info p {
+    color: var(--text-color) !important;
+    font-size: .9rem;
+    opacity: 1;
+    line-height: 100%;
+}
+
+.content .price_info .btns{
+    padding: 15px 30px;
+    border: 1px solid #333;
+    border-radius: 15px;
+    transition: all .5s ease;
+    font-weight: 300;
+    letter-spacing: .5px;
+    display: block;
+    margin-bottom: 15px;
+    width: 100% !important;
+    height: 100%;
+}
+
+.content .price_info .btns i{
+    color: var(--accent-color);
+}
+
+.content .price_info .btns:hover{
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.content .price_info .btns:hover i{
+    color: var(--text-color);
+}
+
+.content .price_info .btns.active{
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.content .price_info .btns.active i{
+    color: var(--text-color);
+}
+
+
+@media (max-width: 999px) {
+    .slider_container .head{
+        padding: 7rem 0 0 7vw;
+        font-size: 2.7rem;
+    }
+    .content .price{
+        margin-top: 10px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .content{
+        padding-top: 20px;
+    }
+    .slider_container .head{
+        font-size: 2rem;
+    }
+}
