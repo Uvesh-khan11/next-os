@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import DetailModel from './DetailModel'
 import Inquiry from './Inquiry'
 
-const Head = () => {
+const HeadComponent = () => {
     const [product2Id, setproduct2Id] = useState(1);
     const [category, setCategory] = useState(null);
     const [modelOpen, setModelOpen] = useState(false);
@@ -18,4 +18,4 @@ const Head = () => {
     )
 }
 
-export default Head
+export default HeadComponent

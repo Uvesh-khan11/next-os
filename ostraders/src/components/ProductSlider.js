@@ -1,15 +1,21 @@
 'use client'
 import React, { useEffect, useRef } from "react";
-import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
-// import styles from '../styles/product.module.css'
+import $ from 'jquery';
 import ProductItem from "./ProductItem";
-import 'owl.carousel';
 import data from '../app/assets/data.json';
+import dynamic from "next/dynamic";
+
+const OwlCarousel = dynamic(() => import('react-owl-carousel'), { ssr: false });
 
 const ProductSlider = () => {
+
     const owlRef = useRef(null); // Reference to the OwlCarousel component
+    
+    useEffect(() => {
+        window.$ = window.jQuery = $;
+      }, []);
 
     const options = {
         center: true,

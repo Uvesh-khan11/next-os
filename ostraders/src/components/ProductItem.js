@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import styles from '../app/styles/product.module.css'
 
 
@@ -35,7 +35,7 @@ const ProductItem = (props) => {
                         </div>
                     </div>
                     <div className="d-flex align-items-center justify-content-center">
-                        <a href={`/detail/${props.data.id}`} className='button' style={{ padding: "15px 20px", fontSize: ".8rem", height: "fit-content" }}>Details</a>
+                        <a href={`/details/${props.data.id}`} className='button' style={{ padding: "15px 20px", fontSize: ".8rem", height: "fit-content" }}>Details</a>
                     </div>
                 </div>
             </div>

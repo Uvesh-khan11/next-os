@@ -363,13 +363,13 @@ button {
 
 .button:hover {
     background-color: var(--text-color);
-    color: var(--bg-color);
+    color: var(--bg-color) !important;
 }
 
 .button.btn1:hover {
     background-color: var(--accent-color);
     border-color: var(--accent-color);
-    color: var(--text-color);
+    color: var(--text-color) !important;
 }
 
 .button.after {
@@ -903,11 +903,11 @@ button {
 }
 
 .content-left {
-    width: 50%;
+    width: 50% !important;
 }
 
 .content-right {
-    width: 42%;
+    width: 42% !important;
 }
 
 .cat-item {
@@ -1103,7 +1103,7 @@ button {
 
     .content-left,
     .content-right {
-        width: 100%;
+        width: 100% !important;
     }
 
     .categories h2 {
@@ -1148,7 +1148,7 @@ button {
 
     .content-left,
     .content-right {
-        width: 100%;
+        width: 100% !important;
     }
 
     .cat-item {
@@ -1187,7 +1187,7 @@ button {
 
     .content-left,
     .content-right {
-        width: 100%;
+        width: 100% !important;
     }
 
     .categories.padd-x {

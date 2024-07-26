@@ -70,6 +70,16 @@ const Inquiry = () => {
     const handleModelCLickedOutside = (event) => {
         if (modalRef.current && !modalRef.current.contains(event.target)) {
             setModelOpen(false);
+            setFormData({
+                name: "",
+                email: "",
+                phone: "",
+                message: ""
+            })
+            setFilterData({
+                category: "",
+                name: "",
+            })
         }
     };
 

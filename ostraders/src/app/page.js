@@ -9,6 +9,7 @@ import { useGSAP } from '@gsap/react';
 import ScrollTrigger from 'gsap/dist/ScrollTrigger';
 import gsap from 'gsap';
 import Banner from '../components/Banner';
+import ProductSlider from '@/components/ProductSlider';
 
 const Home = (props) => {
 
@@ -52,10 +53,11 @@ const Home = (props) => {
 
   return (
     <>
-      <Herosection setOpen={props.setOpen} />
+      <Herosection />
       <Category />
-      <Banner />
+      <Banner />  
       <Search />
+      <ProductSlider />
       <Testimonial />
       <div className="container-fluid padd-x about-brand mt-4">
         <div className="row">

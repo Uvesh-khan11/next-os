@@ -99,7 +99,7 @@
     padding: 20px;
     width: 50px;
     height: 50px;
-    display: flex;
+    display: flex !important;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
@@ -128,11 +128,13 @@
     list-style:disc;
     color: var(--accent-color);
     margin-bottom: 8px;
+    position: relative;
 }
 
 .footer_section li a{
     font-weight: 300;
     font-size: .95rem;
+    color: var(--text-color) !important;
 }
 
 .footer_section li a:hover{
@@ -143,12 +145,12 @@
     width: 6px;
     height: 6px;
     content: "";
-    background: var(--accent-color);
+    background: var(--accent-color) !important;
     border-radius: 50%;
     display: block;
     position: absolute;
-    left: 0;
-    top: 12px;
+    left: -16px;
+    top: 7px;
 }
 
 .newsLetter{
